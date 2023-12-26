@@ -1,0 +1,1984 @@
+[
+  {
+    "phrase": "- absence de eau , conflit armer , économie en récession , tout être en place pour craindre le pire ce année en Ethiopie . \n",
+    "table": [
+      {
+        "word": "-",
+        "lemma": "-",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "Absence",
+        "lemma": "absence",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "d'",
+        "lemma": "de",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "eau",
+        "lemma": "eau",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": ",",
+        "lemma": ",",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "conflit",
+        "lemma": "conflit",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "armé",
+        "lemma": "armer",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": ",",
+        "lemma": ",",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "économie",
+        "lemma": "économie",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "en",
+        "lemma": "en",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "récession",
+        "lemma": "récession",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": ",",
+        "lemma": ",",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "tout",
+        "lemma": "tout",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "est",
+        "lemma": "être",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "en",
+        "lemma": "en",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "place",
+        "lemma": "place",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "pour",
+        "lemma": "pour",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "craindre",
+        "lemma": "craindre",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "le",
+        "lemma": "le",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "pire",
+        "lemma": "pire",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "cette",
+        "lemma": "ce",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "année",
+        "lemma": "année",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "en",
+        "lemma": "en",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "Ethiopie",
+        "lemma": "Ethiopie",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": ".",
+        "lemma": ".",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "\n",
+        "lemma": "\n",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      }
+    ],
+    "seg_phrase_info": {
+      "rule_info": [],
+      "seg_phrase": [
+        "-",
+        "absence",
+        "de",
+        "eau",
+        ",",
+        "conflit",
+        "armer",
+        ",",
+        "économie",
+        "en",
+        "récession",
+        ",",
+        "tout",
+        "être",
+        "en",
+        "place",
+        "pour",
+        "craindre",
+        "le",
+        "pire",
+        "ce",
+        "année",
+        "en",
+        "Ethiopie",
+        ".",
+        "\n"
+      ],
+      "seg_phrase_original": [
+        "-",
+        "Absence",
+        "d'",
+        "eau",
+        ",",
+        "conflit",
+        "armé",
+        ",",
+        "économie",
+        "en",
+        "récession",
+        ",",
+        "tout",
+        "est",
+        "en",
+        "place",
+        "pour",
+        "craindre",
+        "le",
+        "pire",
+        "cette",
+        "année",
+        "en",
+        "Ethiopie",
+        ".",
+        "\n"
+      ],
+      "phrase_original": "- Absence d'eau, conflit armé, économie en récession, tout est en place pour craindre le pire cette année en Ethiopie.\n"
+    },
+    "replace": false,
+    "replace_phrase": ""
+  },
+  {
+    "phrase": "- à moins , à moins que le communauté international se mobiliser . \n",
+    "table": [
+      {
+        "word": "-",
+        "lemma": "-",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "A moins",
+        "lemma": "à moins",
+        "key": "EPL",
+        "temp_info": "",
+        "EPL_info": [
+          {
+            "type": "locution",
+            "niveau": "C1",
+            "category": "ADV",
+            "explication": "Pour moins que cela, pour une moindre cause."
+          }
+        ],
+        "replace": "None",
+        "exercise": "On le serait à moins"
+      },
+      {
+        "word": ",",
+        "lemma": ",",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "à moins que",
+        "lemma": "à moins que",
+        "key": "EPL",
+        "temp_info": "",
+        "EPL_info": [
+          {
+            "type": "mot fuctionnel complexe",
+            "niveau": "B1",
+            "category": "PREP",
+            "explication": "Sauf si"
+          }
+        ],
+        "replace": "None",
+        "exercise": "Le jugement rendu par la division administrative est définitif, à moins que le président de la Cour suprême autorise sa révision."
+      },
+      {
+        "word": "la",
+        "lemma": "le",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "communauté",
+        "lemma": "communauté",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "internationale",
+        "lemma": "international",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "se",
+        "lemma": "se",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "mobilise",
+        "lemma": "mobiliser",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": ".",
+        "lemma": ".",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "\n",
+        "lemma": "\n",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      }
+    ],
+    "seg_phrase_info": {
+      "rule_info": [
+        {
+          "expr": "à moins",
+          "rule": "combine,à+moins,à moins,EPL\n"
+        },
+        {
+          "expr": "à moins",
+          "rule": "combine,à+moins,à moins,EPL\n"
+        },
+        {
+          "expr": "à moins que",
+          "rule": "EPL,syntax,CN[lemma==à moins];R1[lemma==que],combine[CN+R1],CN[key==EPL]\n"
+        }
+      ],
+      "seg_phrase": [
+        "-",
+        "à moins",
+        ",",
+        "à moins que",
+        "le",
+        "communauté",
+        "international",
+        "se",
+        "mobiliser",
+        ".",
+        "\n"
+      ],
+      "seg_phrase_original": [
+        "-",
+        "A moins",
+        ",",
+        "à moins que",
+        "la",
+        "communauté",
+        "internationale",
+        "se",
+        "mobilise",
+        ".",
+        "\n"
+      ],
+      "phrase_original": "- A moins, à moins que la communauté internationale se mobilise.\n"
+    },
+    "replace": false,
+    "replace_phrase": ""
+  },
+  {
+    "phrase": "- ce communauté international , le voilà justement qui débarquer ce après-midi sou le trait de catherine Bertini , responsable de programme alimentaire mondial et envoyer spécial de secrétaire général de le ONU dans le corne de le Afrique . \n",
+    "table": [
+      {
+        "word": "-",
+        "lemma": "-",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "Cette",
+        "lemma": "ce",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "communauté",
+        "lemma": "communauté",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "internationale",
+        "lemma": "international",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": ",",
+        "lemma": ",",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "la",
+        "lemma": "le",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "voilà",
+        "lemma": "voilà",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "justement",
+        "lemma": "justement",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "qui",
+        "lemma": "qui",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "débarque",
+        "lemma": "débarquer",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "cet",
+        "lemma": "ce",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "après-midi",
+        "lemma": "après-midi",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "sous",
+        "lemma": "sou",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "les",
+        "lemma": "le",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "traits",
+        "lemma": "trait",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "de",
+        "lemma": "de",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "Catherine",
+        "lemma": "catherine",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "Bertini",
+        "lemma": "Bertini",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": ",",
+        "lemma": ",",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "responsable",
+        "lemma": "responsable",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "du",
+        "lemma": "de",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "programme alimentaire mondial",
+        "lemma": "programme alimentaire mondial",
+        "key": "EPL",
+        "temp_info": "",
+        "EPL_info": [
+          {
+            "type": "locution",
+            "niveau": "C1",
+            "category": "N",
+            "explication": "l'organisme d'aide alimentaire de l'ONU et de la FAO. "
+          }
+        ],
+        "replace": "None",
+        "exercise": "Nous sommes au quatrième rangs en termes de contribution au Programme alimentaire mondial. "
+      },
+      {
+        "word": "et",
+        "lemma": "et",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "envoyée",
+        "lemma": "envoyer",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "spéciale",
+        "lemma": "spécial",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "du",
+        "lemma": "de",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "secrétaire général",
+        "lemma": "secrétaire général",
+        "key": "EPL",
+        "temp_info": "",
+        "EPL_info": [
+          {
+            "type": "locution",
+            "niveau": "C1",
+            "category": "N",
+            "explication": "le dirigeant de divers syndicats, partis politiques, églises, associations ou autres organismes."
+          }
+        ],
+        "replace": "None",
+        "exercise": "Ce retrait prend effet à la date de réception de ladite notification par le Secrétaire Général. "
+      },
+      {
+        "word": "de",
+        "lemma": "de",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "l'",
+        "lemma": "le",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "ONU",
+        "lemma": "ONU",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "dans",
+        "lemma": "dans",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "la",
+        "lemma": "le",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "corne de l' Afrique",
+        "lemma": "corne de le Afrique",
+        "key": "EPL",
+        "temp_info": "",
+        "EPL_info": [
+          {
+            "type": "locution",
+            "niveau": "C1",
+            "category": "N",
+            "explication": "un surnom géographique qui désigne une péninsule de l'Afrique de l'Est qui s'étend depuis la côte sud de la mer Rouge jusqu'à la côte ouest de la mer d'Arabie, en passant par le golfe d'Aden et dont la forme, sur une carte, évoque une corne de rhinocéros."
+          }
+        ],
+        "replace": "None",
+        "exercise": "Le peuple somalien souhaite vivement que la paix et la stabilité reviennent dans la Corne de l'Afrique."
+      },
+      {
+        "word": ".",
+        "lemma": ".",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "\n",
+        "lemma": "\n",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      }
+    ],
+    "seg_phrase_info": {
+      "rule_info": [
+        {
+          "expr": "programme alimentaire mondial",
+          "rule": "combine,programme+alimentaire+mondial,programme alimentaire mondial,EPL\n"
+        },
+        {
+          "expr": "secrétaire général",
+          "rule": "combine,secrétaire+général,secrétaire général,EPL\n"
+        },
+        {
+          "expr": "corne de le Afrique",
+          "rule": "combine,corne+de+le+Afrique,corne de le Afrique,EPL\n"
+        }
+      ],
+      "seg_phrase": [
+        "-",
+        "ce",
+        "communauté",
+        "international",
+        ",",
+        "le",
+        "voilà",
+        "justement",
+        "qui",
+        "débarquer",
+        "ce",
+        "après-midi",
+        "sou",
+        "le",
+        "trait",
+        "de",
+        "catherine",
+        "Bertini",
+        ",",
+        "responsable",
+        "de",
+        "programme alimentaire mondial",
+        "et",
+        "envoyer",
+        "spécial",
+        "de",
+        "secrétaire général",
+        "de",
+        "le",
+        "ONU",
+        "dans",
+        "le",
+        "corne de le Afrique",
+        ".",
+        "\n"
+      ],
+      "seg_phrase_original": [
+        "-",
+        "Cette",
+        "communauté",
+        "internationale",
+        ",",
+        "la",
+        "voilà",
+        "justement",
+        "qui",
+        "débarque",
+        "cet",
+        "après-midi",
+        "sous",
+        "les",
+        "traits",
+        "de",
+        "Catherine",
+        "Bertini",
+        ",",
+        "responsable",
+        "du",
+        "programme alimentaire mondial",
+        "et",
+        "envoyée",
+        "spéciale",
+        "du",
+        "secrétaire général",
+        "de",
+        "l'",
+        "ONU",
+        "dans",
+        "la",
+        "corne de l' Afrique",
+        ".",
+        "\n"
+      ],
+      "phrase_original": "- Cette communauté internationale, la voilà justement qui débarque cet après-midi sous les traits de Catherine Bertini, responsable du programme alimentaire mondial et envoyée spéciale du secrétaire général de l'ONU dans la corne de l'Afrique.\n"
+    },
+    "replace": false,
+    "replace_phrase": ""
+  },
+  {
+    "phrase": "- ce humanitaire qui chaque année batailler pour obtenir le argent nécessaire pour aider un pays comme le Ethiopie et qui compter bien ce année profiter de ce exposition médiatique pour y parvenir . \n",
+    "table": [
+      {
+        "word": "-",
+        "lemma": "-",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "Ces",
+        "lemma": "ce",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "humanitaires",
+        "lemma": "humanitaire",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "qui",
+        "lemma": "qui",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "chaque",
+        "lemma": "chaque",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "année",
+        "lemma": "année",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "bataillent",
+        "lemma": "batailler",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "pour",
+        "lemma": "pour",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "obtenir",
+        "lemma": "obtenir",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "l'",
+        "lemma": "le",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "argent",
+        "lemma": "argent",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "nécessaire",
+        "lemma": "nécessaire",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "pour",
+        "lemma": "pour",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "aider",
+        "lemma": "aider",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "des",
+        "lemma": "un",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "pays",
+        "lemma": "pays",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "comme",
+        "lemma": "comme",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "l'",
+        "lemma": "le",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "Ethiopie",
+        "lemma": "Ethiopie",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "et",
+        "lemma": "et",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "qui",
+        "lemma": "qui",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "comptent",
+        "lemma": "compter",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "bien",
+        "lemma": "bien",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "cette",
+        "lemma": "ce",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "année",
+        "lemma": "année",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "profiter",
+        "lemma": "profiter",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "de",
+        "lemma": "de",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "cette",
+        "lemma": "ce",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "exposition",
+        "lemma": "exposition",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "médiatique",
+        "lemma": "médiatique",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "pour",
+        "lemma": "pour",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "y",
+        "lemma": "y",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "parvenir",
+        "lemma": "parvenir",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": ".",
+        "lemma": ".",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "\n",
+        "lemma": "\n",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      }
+    ],
+    "seg_phrase_info": {
+      "rule_info": [],
+      "seg_phrase": [
+        "-",
+        "ce",
+        "humanitaire",
+        "qui",
+        "chaque",
+        "année",
+        "batailler",
+        "pour",
+        "obtenir",
+        "le",
+        "argent",
+        "nécessaire",
+        "pour",
+        "aider",
+        "un",
+        "pays",
+        "comme",
+        "le",
+        "Ethiopie",
+        "et",
+        "qui",
+        "compter",
+        "bien",
+        "ce",
+        "année",
+        "profiter",
+        "de",
+        "ce",
+        "exposition",
+        "médiatique",
+        "pour",
+        "y",
+        "parvenir",
+        ".",
+        "\n"
+      ],
+      "seg_phrase_original": [
+        "-",
+        "Ces",
+        "humanitaires",
+        "qui",
+        "chaque",
+        "année",
+        "bataillent",
+        "pour",
+        "obtenir",
+        "l'",
+        "argent",
+        "nécessaire",
+        "pour",
+        "aider",
+        "des",
+        "pays",
+        "comme",
+        "l'",
+        "Ethiopie",
+        "et",
+        "qui",
+        "comptent",
+        "bien",
+        "cette",
+        "année",
+        "profiter",
+        "de",
+        "cette",
+        "exposition",
+        "médiatique",
+        "pour",
+        "y",
+        "parvenir",
+        ".",
+        "\n"
+      ],
+      "phrase_original": "- Ces humanitaires qui chaque année bataillent pour obtenir l'argent nécessaire pour aider des pays comme l'Ethiopie et qui comptent bien cette année profiter de cette exposition médiatique pour y parvenir.\n"
+    },
+    "replace": false,
+    "replace_phrase": ""
+  },
+  {
+    "phrase": "- le français ne être pas en reste . \n",
+    "table": [
+      {
+        "word": "-",
+        "lemma": "-",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "Les",
+        "lemma": "le",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "Français",
+        "lemma": "français",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "ne",
+        "lemma": "ne",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "sont",
+        "lemma": "être",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "pas",
+        "lemma": "pas",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "en",
+        "lemma": "en",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "reste",
+        "lemma": "reste",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": ".",
+        "lemma": ".",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "\n",
+        "lemma": "\n",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      }
+    ],
+    "seg_phrase_info": {
+      "rule_info": [],
+      "seg_phrase": [
+        "-",
+        "le",
+        "français",
+        "ne",
+        "être",
+        "pas",
+        "en",
+        "reste",
+        ".",
+        "\n"
+      ],
+      "seg_phrase_original": [
+        "-",
+        "Les",
+        "Français",
+        "ne",
+        "sont",
+        "pas",
+        "en",
+        "reste",
+        ".",
+        "\n"
+      ],
+      "phrase_original": "- Les Français ne sont pas en reste.\n"
+    },
+    "replace": false,
+    "replace_phrase": ""
+  },
+  {
+    "phrase": "- un avion cargo avoir livrer à Goba le moitié de un aide de urgence de le organisation action contre le faim , 36 tonne au total , un goutte de eau . \n",
+    "table": [
+      {
+        "word": "-",
+        "lemma": "-",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "Un",
+        "lemma": "un",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "avion",
+        "lemma": "avion",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "cargo",
+        "lemma": "cargo",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "a",
+        "lemma": "avoir",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "livré",
+        "lemma": "livrer",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "à",
+        "lemma": "à",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "Goba",
+        "lemma": "Goba",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "la",
+        "lemma": "le",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "moitié",
+        "lemma": "moitié",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "d'",
+        "lemma": "de",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "une",
+        "lemma": "un",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "aide",
+        "lemma": "aide",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "d'",
+        "lemma": "de",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "urgence",
+        "lemma": "urgence",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "de",
+        "lemma": "de",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "l'",
+        "lemma": "le",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "organisation",
+        "lemma": "organisation",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "Action contre la faim",
+        "lemma": "action contre le faim",
+        "key": "EPL",
+        "temp_info": "",
+        "EPL_info": [
+          {
+            "type": "locution",
+            "niveau": "C1",
+            "category": "N",
+            "explication": "une organisation non gouvernementale internationale qui lutte contre la faim dans le monde"
+          }
+        ],
+        "replace": "None",
+        "exercise": "Il a également rencontré l'administrateur de la commune de Mwumba et le représentant d'Action contre la faim dans la province de Ngozi."
+      },
+      {
+        "word": ",",
+        "lemma": ",",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "36",
+        "lemma": "36",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "tonnes",
+        "lemma": "tonne",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "au total",
+        "lemma": "au total",
+        "key": "EPL",
+        "temp_info": "",
+        "EPL_info": [
+          {
+            "type": "locution",
+            "niveau": "B2",
+            "category": "ADV",
+            "explication": "en comptant tous les éléments ; au figuré tout compte fait, tout bien considéré"
+          }
+        ],
+        "replace": "None",
+        "exercise": "Au total, cela fait presque deux milliards d'heures."
+      },
+      {
+        "word": ",",
+        "lemma": ",",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "une",
+        "lemma": "un",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "goutte",
+        "lemma": "goutte",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "d'",
+        "lemma": "de",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "eau",
+        "lemma": "eau",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": ".",
+        "lemma": ".",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "\n",
+        "lemma": "\n",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      }
+    ],
+    "seg_phrase_info": {
+      "rule_info": [
+        {
+          "expr": "action contre le faim",
+          "rule": "combine,action+contre+le+faim,action contre le faim,EPL\n"
+        },
+        {
+          "expr": "au total",
+          "rule": "combine,au+total,au total,EPL\n"
+        }
+      ],
+      "seg_phrase": [
+        "-",
+        "un",
+        "avion",
+        "cargo",
+        "avoir",
+        "livrer",
+        "à",
+        "Goba",
+        "le",
+        "moitié",
+        "de",
+        "un",
+        "aide",
+        "de",
+        "urgence",
+        "de",
+        "le",
+        "organisation",
+        "action contre le faim",
+        ",",
+        "36",
+        "tonne",
+        "au total",
+        ",",
+        "un",
+        "goutte",
+        "de",
+        "eau",
+        ".",
+        "\n"
+      ],
+      "seg_phrase_original": [
+        "-",
+        "Un",
+        "avion",
+        "cargo",
+        "a",
+        "livré",
+        "à",
+        "Goba",
+        "la",
+        "moitié",
+        "d'",
+        "une",
+        "aide",
+        "d'",
+        "urgence",
+        "de",
+        "l'",
+        "organisation",
+        "Action contre la faim",
+        ",",
+        "36",
+        "tonnes",
+        "au total",
+        ",",
+        "une",
+        "goutte",
+        "d'",
+        "eau",
+        ".",
+        "\n"
+      ],
+      "phrase_original": "- Un avion cargo a livré à Goba la moitié d'une aide d'urgence de l'organisation Action contre la faim, 36 tonnes au total, une goutte d'eau.\n"
+    },
+    "replace": false,
+    "replace_phrase": ""
+  },
+  {
+    "phrase": "- pour le Ethiopie le déficit alimentaire être estimer ce année à 800 000 tonne .",
+    "table": [
+      {
+        "word": "-",
+        "lemma": "-",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "Pour",
+        "lemma": "pour",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "l'",
+        "lemma": "le",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "Ethiopie",
+        "lemma": "Ethiopie",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "le",
+        "lemma": "le",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "déficit",
+        "lemma": "déficit",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "alimentaire",
+        "lemma": "alimentaire",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "est",
+        "lemma": "être",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "estimé",
+        "lemma": "estimer",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "cette",
+        "lemma": "ce",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "année",
+        "lemma": "année",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "à",
+        "lemma": "à",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "800",
+        "lemma": "800",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "000",
+        "lemma": "000",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "tonnes",
+        "lemma": "tonne",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": ".",
+        "lemma": ".",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      }
+    ],
+    "seg_phrase_info": {
+      "rule_info": [],
+      "seg_phrase": [
+        "-",
+        "pour",
+        "le",
+        "Ethiopie",
+        "le",
+        "déficit",
+        "alimentaire",
+        "être",
+        "estimer",
+        "ce",
+        "année",
+        "à",
+        "800",
+        "000",
+        "tonne",
+        "."
+      ],
+      "seg_phrase_original": [
+        "-",
+        "Pour",
+        "l'",
+        "Ethiopie",
+        "le",
+        "déficit",
+        "alimentaire",
+        "est",
+        "estimé",
+        "cette",
+        "année",
+        "à",
+        "800",
+        "000",
+        "tonnes",
+        "."
+      ],
+      "phrase_original": "- Pour l'Ethiopie le déficit alimentaire est estimé cette année à 800 000 tonnes."
+    },
+    "replace": false,
+    "replace_phrase": ""
+  }
+]

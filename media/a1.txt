@@ -1,0 +1,11 @@
+- Mademoiselle ?
+- Bonjour monsieur.\nC'est pour une inscription.\nVoilà mon passeport, une photo et mon formulaire d'inscription.
+- Bien, merci...\n Oh ! \nMon café !\n Je suis désolé !\n Votre nom... Martinez. Prénom... Diane... \nQuelle est votre date de naissance ?\n Le 3 ou le 9 ?
+- Le 9 !\n C'est le 9 février 1995.
+- Bien, nationalité... française.
+- Oui...
+- Quelles sont vos coordonnées...\n Quelle est votre adresse ?\n C'est le numéro 30 ?
+- J'habite 30 rue du Jura.
+- Et quel est votre numéro de téléphone ?
+- C'est le 03 24 35 29 18.
+- Merci.

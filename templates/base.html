@@ -1,0 +1,59 @@
+{% load static %}
+<!--<!DOCTYPE html>-->
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simple EPL</title>
+    <link rel="stylesheet" type="text/css" href="{% static '/styles/bootstrap.min.css' %}">
+</head>
+<body>
+
+    <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+        <div class="container-fluid">
+        <a class="navbar-brand" href="#">Simple EPL</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarColor01" aria-controls="navbarColor01" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarColor01">
+            <ul class="navbar-nav me-auto">
+            <li class="nav-item">
+                <a id="homelink" class="nav-link active" onclick="switchPage('homelink')"  href="/">Home
+                <span class="visually-hidden">(current)</span>
+                </a>
+            </li>
+            <li class="nav-item">
+                <a id="exercicelink" class="nav-link" onclick="switchPage('exercicelink')" >Exercices</a>
+            </li>
+            </ul>
+        </div>
+        </div>
+    </nav>
+
+    <div class="container">
+        {% block content %}{% endblock %}
+    </div>
+
+    {% block javascript %}{% endblock %}
+
+    <script>
+        // la fonction pour la saute de page
+        function switchPage(pageId) {
+            let nav_links = document.querySelectorAll('.nav-link');
+            for (let i = 0; i < nav_links.length; i++) {
+              if (nav_links[i].classList.contains('active')) {
+                  nav_links[i].classList.remove('active');
+              }
+            }
+            document.getElementById(pageId).classList.add("active");
+            if (pageId === 'homelink'){
+                window.location.href = "/";
+            } else if (pageId === 'exercicelink'){
+                window.location.href = "/exercices/";
+            }
+        }
+    </script>
+</body>
+</html>

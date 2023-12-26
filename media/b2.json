@@ -1,0 +1,1137 @@
+[
+  {
+    "phrase": "ce être ce que il me falloir , exactement ce que il me falloir .",
+    "table": [
+      {
+        "word": "C'",
+        "lemma": "ce",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "est",
+        "lemma": "être",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "ce",
+        "lemma": "ce",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "qu'",
+        "lemma": "que",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "il",
+        "lemma": "il",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "me",
+        "lemma": "me",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "fallait",
+        "lemma": "falloir",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": ",",
+        "lemma": ",",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "exactement",
+        "lemma": "exactement",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "ce",
+        "lemma": "ce",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "qu'",
+        "lemma": "que",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "il",
+        "lemma": "il",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "me",
+        "lemma": "me",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "fallait",
+        "lemma": "falloir",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": ".",
+        "lemma": ".",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      }
+    ],
+    "seg_phrase_info": {
+      "rule_info": [],
+      "seg_phrase": [
+        "ce",
+        "être",
+        "ce",
+        "que",
+        "il",
+        "me",
+        "falloir",
+        ",",
+        "exactement",
+        "ce",
+        "que",
+        "il",
+        "me",
+        "falloir",
+        "."
+      ],
+      "seg_phrase_original": [
+        "C'",
+        "est",
+        "ce",
+        "qu'",
+        "il",
+        "me",
+        "fallait",
+        ",",
+        "exactement",
+        "ce",
+        "qu'",
+        "il",
+        "me",
+        "fallait",
+        "."
+      ],
+      "phrase_original": "C'est ce qu'il me fallait, exactement ce qu'il me fallait."
+    },
+    "replace": false,
+    "replace_phrase": ""
+  },
+  {
+    "phrase": "cela me convier parfaitement , moi qui être tête de linotte .",
+    "table": [
+      {
+        "word": "Ça",
+        "lemma": "cela",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "me",
+        "lemma": "me",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "convient",
+        "lemma": "convier",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "parfaitement",
+        "lemma": "parfaitement",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": ",",
+        "lemma": ",",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "moi",
+        "lemma": "moi",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "qui",
+        "lemma": "qui",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "suis",
+        "lemma": "être",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "tête de linotte",
+        "lemma": "tête de linotte",
+        "key": "EPL",
+        "temp_info": "",
+        "EPL_info": [
+          {
+            "type": "expression idiomatique",
+            "niveau": "B2",
+            "category": "N",
+            "explication": "Personne écervelée, étourdie, superficielle"
+          }
+        ],
+        "replace": "personne très étourdie",
+        "exercise": "En effet, un savant n'est pas supposé être une tête de linotte!"
+      },
+      {
+        "word": ".",
+        "lemma": ".",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      }
+    ],
+    "seg_phrase_info": {
+      "rule_info": [
+        {
+          "expr": "tête de linotte",
+          "rule": "combine,tête+de+linotte,tête de linotte,EPL\n"
+        }
+      ],
+      "seg_phrase": [
+        "cela",
+        "me",
+        "convier",
+        "parfaitement",
+        ",",
+        "moi",
+        "qui",
+        "être",
+        "tête de linotte",
+        "."
+      ],
+      "seg_phrase_original": [
+        "Ça",
+        "me",
+        "convient",
+        "parfaitement",
+        ",",
+        "moi",
+        "qui",
+        "suis",
+        "tête de linotte",
+        "."
+      ],
+      "phrase_original": "Ça me convient parfaitement, moi qui suis tête de linotte."
+    },
+    "replace": true,
+    "replace_phrase": "Ça me convient parfaitement , moi qui suis personne très étourdie ."
+  },
+  {
+    "phrase": "  mais le problème , ce être que je être obliger de garder le oeil river sur mon casserole pour guetter le lion qui apparaître sur le coquille . \n",
+    "table": [
+      {
+        "word": " ",
+        "lemma": " ",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "Mais",
+        "lemma": "mais",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "le",
+        "lemma": "le",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "problème",
+        "lemma": "problème",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": ",",
+        "lemma": ",",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "c'",
+        "lemma": "ce",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "est",
+        "lemma": "être",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "que",
+        "lemma": "que",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "je",
+        "lemma": "je",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "suis",
+        "lemma": "être",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "obligée",
+        "lemma": "obliger",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "de",
+        "lemma": "de",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "garder les yeux rivés sur",
+        "lemma": "garder le oeil river sur",
+        "key": "EPL",
+        "temp_info": "",
+        "EPL_info": [
+          {
+            "type": "expression idiomatique",
+            "niveau": "B2",
+            "category": "V",
+            "explication": "Ne penser qu'à une chose"
+          }
+        ],
+        "replace": "penser à quelque chose tout le temps.",
+        "exercise": "La population a les yeux rivés sur nous et évalue les exemples que nous lui donnons. "
+      },
+      {
+        "word": "ma",
+        "lemma": "mon",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "casserole",
+        "lemma": "casserole",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "pour",
+        "lemma": "pour",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "guetter",
+        "lemma": "guetter",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "le",
+        "lemma": "le",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "lion",
+        "lemma": "lion",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "qui",
+        "lemma": "qui",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "apparaît",
+        "lemma": "apparaître",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "sur",
+        "lemma": "sur",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "la",
+        "lemma": "le",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "coquille",
+        "lemma": "coquille",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": ".",
+        "lemma": ".",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "\n",
+        "lemma": "\n",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      }
+    ],
+    "seg_phrase_info": {
+      "rule_info": [
+        {
+          "expr": "garder le oeil river sur",
+          "rule": "combine,garder+le+oeil+river+sur,garder le oeil river sur,EPL\n"
+        }
+      ],
+      "seg_phrase": [
+        " ",
+        "mais",
+        "le",
+        "problème",
+        ",",
+        "ce",
+        "être",
+        "que",
+        "je",
+        "être",
+        "obliger",
+        "de",
+        "garder le oeil river sur",
+        "mon",
+        "casserole",
+        "pour",
+        "guetter",
+        "le",
+        "lion",
+        "qui",
+        "apparaître",
+        "sur",
+        "le",
+        "coquille",
+        ".",
+        "\n"
+      ],
+      "seg_phrase_original": [
+        " ",
+        "Mais",
+        "le",
+        "problème",
+        ",",
+        "c'",
+        "est",
+        "que",
+        "je",
+        "suis",
+        "obligée",
+        "de",
+        "garder les yeux rivés sur",
+        "ma",
+        "casserole",
+        "pour",
+        "guetter",
+        "le",
+        "lion",
+        "qui",
+        "apparaît",
+        "sur",
+        "la",
+        "coquille",
+        ".",
+        "\n"
+      ],
+      "phrase_original": " Mais le problème, c'est que je suis obligée de garder les yeux rivés sur ma casserole pour guetter le lion qui apparaît sur la coquille.\n"
+    },
+    "replace": true,
+    "replace_phrase": "  Mais le problème , c' est que je suis obligée de penser à quelque chose tout le temps. ma casserole pour guetter le lion qui apparaît sur la coquille . \n"
+  },
+  {
+    "phrase": "finalement , ce être pas si bien que cela et je avoir préférer que il y avoir un alarme , pour pouvoir faire autre chose en même temps .",
+    "table": [
+      {
+        "word": "Finalement",
+        "lemma": "finalement",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": ",",
+        "lemma": ",",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "c'",
+        "lemma": "ce",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "est",
+        "lemma": "être",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "pas",
+        "lemma": "pas",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "si",
+        "lemma": "si",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "bien que",
+        "lemma": "bien que",
+        "key": "EPL",
+        "temp_info": "",
+        "EPL_info": [
+          {
+            "type": "mot fuctionnel complexe",
+            "niveau": "A1",
+            "category": "CONJS",
+            "explication": "Conjonction de subordination introduisant une concession"
+          }
+        ],
+        "replace": "None",
+        "exercise": "Bien que sa pétition soit recevable, le Parlement a jusqu'à présent refusé de l'entendre. "
+      },
+      {
+        "word": "ça",
+        "lemma": "cela",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "et",
+        "lemma": "et",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "j'",
+        "lemma": "je",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "aurais",
+        "lemma": "avoir",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "préféré",
+        "lemma": "préférer",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "qu'",
+        "lemma": "que",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "il",
+        "lemma": "il",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "y",
+        "lemma": "y",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "ait",
+        "lemma": "avoir",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "une",
+        "lemma": "un",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "alarme",
+        "lemma": "alarme",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": ",",
+        "lemma": ",",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "pour",
+        "lemma": "pour",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "pouvoir",
+        "lemma": "pouvoir",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "faire",
+        "lemma": "faire",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "autre",
+        "lemma": "autre",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "chose",
+        "lemma": "chose",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "en même temps",
+        "lemma": "en même temps",
+        "key": "EPL",
+        "temp_info": "",
+        "EPL_info": [
+          {
+            "type": "locution",
+            "niveau": "A2",
+            "category": "ADV",
+            "explication": "Durant ce même moment, ce même instant, dans le même instant, à la même heure, ensemble."
+          }
+        ],
+        "replace": "None",
+        "exercise": "Les jongleurs passent en même temps et toujours de la main droite."
+      },
+      {
+        "word": ".",
+        "lemma": ".",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      }
+    ],
+    "seg_phrase_info": {
+      "rule_info": [
+        {
+          "expr": "bien que",
+          "rule": "combine,bien+que,bien que,EPL\n"
+        },
+        {
+          "expr": "en même temps",
+          "rule": "combine,en+même+temps,en même temps,EPL\n"
+        }
+      ],
+      "seg_phrase": [
+        "finalement",
+        ",",
+        "ce",
+        "être",
+        "pas",
+        "si",
+        "bien que",
+        "cela",
+        "et",
+        "je",
+        "avoir",
+        "préférer",
+        "que",
+        "il",
+        "y",
+        "avoir",
+        "un",
+        "alarme",
+        ",",
+        "pour",
+        "pouvoir",
+        "faire",
+        "autre",
+        "chose",
+        "en même temps",
+        "."
+      ],
+      "seg_phrase_original": [
+        "Finalement",
+        ",",
+        "c'",
+        "est",
+        "pas",
+        "si",
+        "bien que",
+        "ça",
+        "et",
+        "j'",
+        "aurais",
+        "préféré",
+        "qu'",
+        "il",
+        "y",
+        "ait",
+        "une",
+        "alarme",
+        ",",
+        "pour",
+        "pouvoir",
+        "faire",
+        "autre",
+        "chose",
+        "en même temps",
+        "."
+      ],
+      "phrase_original": "Finalement, c'est pas si bien que ça et j'aurais préféré qu'il y ait une alarme, pour pouvoir faire autre chose en même temps."
+    },
+    "replace": false,
+    "replace_phrase": ""
+  },
+  {
+    "phrase": "en plus , cela me dégoûter un peu ce encre qui apparaître tout de un coup !",
+    "table": [
+      {
+        "word": "En plus",
+        "lemma": "en plus",
+        "key": "EPL",
+        "temp_info": "",
+        "EPL_info": [
+          {
+            "type": "locution",
+            "niveau": "A1",
+            "category": "ADV",
+            "explication": "De plus"
+          }
+        ],
+        "replace": "None",
+        "exercise": "En plus, certaines des tables n'ont pas de plateaux de ramassage, ce qui fait que le sel tombe facilement au sol. "
+      },
+      {
+        "word": ",",
+        "lemma": ",",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "ça",
+        "lemma": "cela",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "me",
+        "lemma": "me",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "dégoûte",
+        "lemma": "dégoûter",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "un peu",
+        "lemma": "un peu",
+        "key": "EPL",
+        "temp_info": "",
+        "EPL_info": [
+          {
+            "type": "locution",
+            "niveau": "A1",
+            "category": "ADV",
+            "explication": "En petite quantité, pas beaucoup"
+          }
+        ],
+        "replace": "None",
+        "exercise": "Certains utilisateurs seront un peu confus avec la terminologie utilisée ici."
+      },
+      {
+        "word": "cette",
+        "lemma": "ce",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "encre",
+        "lemma": "encre",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "qui",
+        "lemma": "qui",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "apparaît",
+        "lemma": "apparaître",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "tout d' un coup",
+        "lemma": "tout de un coup",
+        "key": "EPL",
+        "temp_info": "",
+        "EPL_info": [
+          {
+            "type": "locution",
+            "niveau": "B2",
+            "category": "ADV",
+            "explication": "Tout en une fois."
+          }
+        ],
+        "replace": "None",
+        "exercise": "Et tout d'un coup cette réalité me revient à l'esprit."
+      },
+      {
+        "word": "!",
+        "lemma": "!",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      }
+    ],
+    "seg_phrase_info": {
+      "rule_info": [
+        {
+          "expr": "en plus",
+          "rule": "combine,en+plus,en plus,EPL\n"
+        },
+        {
+          "expr": "un peu",
+          "rule": "combine,un+peu,un peu,EPL\n"
+        },
+        {
+          "expr": "tout de un coup",
+          "rule": "combine,tout+de+un+coup,tout de un coup,EPL\n"
+        }
+      ],
+      "seg_phrase": [
+        "en plus",
+        ",",
+        "cela",
+        "me",
+        "dégoûter",
+        "un peu",
+        "ce",
+        "encre",
+        "qui",
+        "apparaître",
+        "tout de un coup",
+        "!"
+      ],
+      "seg_phrase_original": [
+        "En plus",
+        ",",
+        "ça",
+        "me",
+        "dégoûte",
+        "un peu",
+        "cette",
+        "encre",
+        "qui",
+        "apparaît",
+        "tout d' un coup",
+        "!"
+      ],
+      "phrase_original": "En plus, ça me dégoûte un peu cette encre qui apparaît tout d'un coup !"
+    },
+    "replace": false,
+    "replace_phrase": ""
+  }
+]

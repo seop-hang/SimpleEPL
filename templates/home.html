@@ -1,0 +1,46 @@
+{% extends "base.html" %}
+{% load static %}
+
+{% block content %}
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simple EPL</title>
+    <link rel="stylesheet" type="text/css" href="{% static '/styles/bootstrap.min.css' %}">
+    <link rel="stylesheet" type="text/css" href="{% static '/styles/home.css' %}">
+</head>
+<body>
+
+    <ul class="menu">
+        <li onclick="switchContent(1)" class="colored">A1</li>
+        <li onclick="switchContent(2)">A2</li>
+        <li onclick="switchContent(3)">B1</li>
+        <li onclick="switchContent(4)">B2</li>
+        <li onclick="switchContent(5)">C1</li>
+        <li onclick="switchContent(6)">C2</li>
+    </ul>
+    <div class="contentContainer">
+        <div class="content" id="content1">
+            {{ processed_data|safe }}
+        </div>
+        <div class="content" id="content2">
+            {{ replaced_text|safe }}
+        </div>
+    </div>
+    <div id="explainContainer" class="explainContainer">
+        {{ explain |safe }}
+    </div>
+    <div class="buttonContainer">
+        <button type="button" class="button btn btn-outline-primary" onclick="switchToExercice()">Go to exercises</button>
+    </div>
+</body>
+
+</html>
+
+{% endblock %}
+
+{% block javascript %}
+<script src="{% static 'scripts/home.js' %}"></script>
+{% endblock %}

@@ -1,0 +1,3518 @@
+[
+  {
+    "phrase": "- encore un nouveau livre , Leila !",
+    "table": [
+      {
+        "word": "-",
+        "lemma": "-",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "Encore",
+        "lemma": "encore",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "un",
+        "lemma": "un",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "nouveau",
+        "lemma": "nouveau",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "livre",
+        "lemma": "livre",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": ",",
+        "lemma": ",",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "Leila",
+        "lemma": "Leila",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "!",
+        "lemma": "!",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      }
+    ],
+    "seg_phrase_info": {
+      "rule_info": [],
+      "seg_phrase": [
+        "-",
+        "encore",
+        "un",
+        "nouveau",
+        "livre",
+        ",",
+        "Leila",
+        "!"
+      ],
+      "seg_phrase_original": [
+        "-",
+        "Encore",
+        "un",
+        "nouveau",
+        "livre",
+        ",",
+        "Leila",
+        "!"
+      ],
+      "phrase_original": "- Encore un nouveau livre, Leila !"
+    },
+    "replace": false,
+    "replace_phrase": ""
+  },
+  {
+    "phrase": "  mais te en lire combien par mois ? \n",
+    "table": [
+      {
+        "word": " ",
+        "lemma": " ",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "Mais",
+        "lemma": "mais",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "t'",
+        "lemma": "te",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "en",
+        "lemma": "en",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "lis",
+        "lemma": "lire",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "combien",
+        "lemma": "combien",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "par",
+        "lemma": "par",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "mois",
+        "lemma": "mois",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "?",
+        "lemma": "?",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "\n",
+        "lemma": "\n",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      }
+    ],
+    "seg_phrase_info": {
+      "rule_info": [],
+      "seg_phrase": [
+        " ",
+        "mais",
+        "te",
+        "en",
+        "lire",
+        "combien",
+        "par",
+        "mois",
+        "?",
+        "\n"
+      ],
+      "seg_phrase_original": [
+        " ",
+        "Mais",
+        "t'",
+        "en",
+        "lis",
+        "combien",
+        "par",
+        "mois",
+        "?",
+        "\n"
+      ],
+      "phrase_original": " Mais t'en lis combien par mois ?\n"
+    },
+    "replace": false,
+    "replace_phrase": ""
+  },
+  {
+    "phrase": "- oh !",
+    "table": [
+      {
+        "word": "-",
+        "lemma": "-",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "Oh",
+        "lemma": "oh",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "!",
+        "lemma": "!",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      }
+    ],
+    "seg_phrase_info": {
+      "rule_info": [],
+      "seg_phrase": [
+        "-",
+        "oh",
+        "!"
+      ],
+      "seg_phrase_original": [
+        "-",
+        "Oh",
+        "!"
+      ],
+      "phrase_original": "- Oh !"
+    },
+    "replace": false,
+    "replace_phrase": ""
+  },
+  {
+    "phrase": "cela dépendre , mais en moyenne deux ou trois .",
+    "table": [
+      {
+        "word": "Ça",
+        "lemma": "cela",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "dépend",
+        "lemma": "dépendre",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": ",",
+        "lemma": ",",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "mais",
+        "lemma": "mais",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "en",
+        "lemma": "en",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "moyenne",
+        "lemma": "moyenne",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "deux",
+        "lemma": "deux",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "ou",
+        "lemma": "ou",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "trois",
+        "lemma": "trois",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": ".",
+        "lemma": ".",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      }
+    ],
+    "seg_phrase_info": {
+      "rule_info": [],
+      "seg_phrase": [
+        "cela",
+        "dépendre",
+        ",",
+        "mais",
+        "en",
+        "moyenne",
+        "deux",
+        "ou",
+        "trois",
+        "."
+      ],
+      "seg_phrase_original": [
+        "Ça",
+        "dépend",
+        ",",
+        "mais",
+        "en",
+        "moyenne",
+        "deux",
+        "ou",
+        "trois",
+        "."
+      ],
+      "phrase_original": "Ça dépend, mais en moyenne deux ou trois."
+    },
+    "replace": false,
+    "replace_phrase": ""
+  },
+  {
+    "phrase": "  moi , tu savoir , dès que je avoir savoir lire , le livre , ce être devenir mon passion .",
+    "table": [
+      {
+        "word": " ",
+        "lemma": " ",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "Moi",
+        "lemma": "moi",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": ",",
+        "lemma": ",",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "tu",
+        "lemma": "tu",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "sais",
+        "lemma": "savoir",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": ",",
+        "lemma": ",",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "dès que",
+        "lemma": "dès que",
+        "key": "EPL",
+        "temp_info": "",
+        "EPL_info": [
+          {
+            "type": "mot fuctionnel complexe",
+            "niveau": "3",
+            "category": "CONJS",
+            "explication": "Sitôt que ; immédiatement après que."
+          }
+        ],
+        "replace": "None",
+        "exercise": "Ils sont traduits dans d'autres langues dès que possible."
+      },
+      {
+        "word": "j'",
+        "lemma": "je",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "ai",
+        "lemma": "avoir",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "su",
+        "lemma": "savoir",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "lire",
+        "lemma": "lire",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": ",",
+        "lemma": ",",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "les",
+        "lemma": "le",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "livres",
+        "lemma": "livre",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": ",",
+        "lemma": ",",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "c'",
+        "lemma": "ce",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "est",
+        "lemma": "être",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "devenu",
+        "lemma": "devenir",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "ma",
+        "lemma": "mon",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "passion",
+        "lemma": "passion",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": ".",
+        "lemma": ".",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      }
+    ],
+    "seg_phrase_info": {
+      "rule_info": [
+        {
+          "expr": "dès que",
+          "rule": "combine,dès+que,dès que,EPL\n"
+        }
+      ],
+      "seg_phrase": [
+        " ",
+        "moi",
+        ",",
+        "tu",
+        "savoir",
+        ",",
+        "dès que",
+        "je",
+        "avoir",
+        "savoir",
+        "lire",
+        ",",
+        "le",
+        "livre",
+        ",",
+        "ce",
+        "être",
+        "devenir",
+        "mon",
+        "passion",
+        "."
+      ],
+      "seg_phrase_original": [
+        " ",
+        "Moi",
+        ",",
+        "tu",
+        "sais",
+        ",",
+        "dès que",
+        "j'",
+        "ai",
+        "su",
+        "lire",
+        ",",
+        "les",
+        "livres",
+        ",",
+        "c'",
+        "est",
+        "devenu",
+        "ma",
+        "passion",
+        "."
+      ],
+      "phrase_original": " Moi, tu sais, dès que j'ai su lire, les livres, c'est devenu ma passion."
+    },
+    "replace": false,
+    "replace_phrase": ""
+  },
+  {
+    "phrase": "  pas toi ? \n",
+    "table": [
+      {
+        "word": " ",
+        "lemma": " ",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "Pas",
+        "lemma": "pas",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "toi",
+        "lemma": "toi",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "?",
+        "lemma": "?",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "\n",
+        "lemma": "\n",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      }
+    ],
+    "seg_phrase_info": {
+      "rule_info": [],
+      "seg_phrase": [
+        " ",
+        "pas",
+        "toi",
+        "?",
+        "\n"
+      ],
+      "seg_phrase_original": [
+        " ",
+        "Pas",
+        "toi",
+        "?",
+        "\n"
+      ],
+      "phrase_original": " Pas toi ?\n"
+    },
+    "replace": false,
+    "replace_phrase": ""
+  },
+  {
+    "phrase": "- si , moi aussi , je aimer bien lire , mais je ne avoir plus beaucoup de temps depuis que je avoir un enfant ;",
+    "table": [
+      {
+        "word": "-",
+        "lemma": "-",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "Si",
+        "lemma": "si",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": ",",
+        "lemma": ",",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "moi",
+        "lemma": "moi",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "aussi",
+        "lemma": "aussi",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": ",",
+        "lemma": ",",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "j'",
+        "lemma": "je",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "aime",
+        "lemma": "aimer",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "bien",
+        "lemma": "bien",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "lire",
+        "lemma": "lire",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": ",",
+        "lemma": ",",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "mais",
+        "lemma": "mais",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "je",
+        "lemma": "je",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "n'",
+        "lemma": "ne",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "ai",
+        "lemma": "avoir",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "plus",
+        "lemma": "plus",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "beaucoup de",
+        "lemma": "beaucoup de",
+        "key": "EPL",
+        "temp_info": "",
+        "EPL_info": [
+          {
+            "type": "mot fuctionnel complexe",
+            "niveau": "A1",
+            "category": "DET",
+            "explication": "une grande quantité"
+          }
+        ],
+        "replace": "None",
+        "exercise": "Beaucoup de ces idées positives sont décrites dans le manuel."
+      },
+      {
+        "word": "temps",
+        "lemma": "temps",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "depuis que",
+        "lemma": "depuis que",
+        "key": "EPL",
+        "temp_info": "",
+        "EPL_info": [
+          {
+            "type": "mot fuctionnel complexe",
+            "niveau": "A2",
+            "category": "CONJS",
+            "explication": "Depuis le temps où"
+          }
+        ],
+        "replace": "None",
+        "exercise": "Depuis que ce jaune a bougé, d'une certaine façon il s'est qualifié. "
+      },
+      {
+        "word": "j'",
+        "lemma": "je",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "ai",
+        "lemma": "avoir",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "des",
+        "lemma": "un",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "enfants",
+        "lemma": "enfant",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": ";",
+        "lemma": ";",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      }
+    ],
+    "seg_phrase_info": {
+      "rule_info": [
+        {
+          "expr": "beaucoup de",
+          "rule": "combine,beaucoup+de,beaucoup de,EPL\n"
+        },
+        {
+          "expr": "depuis que",
+          "rule": "combine,depuis+que,depuis que,EPL\n"
+        }
+      ],
+      "seg_phrase": [
+        "-",
+        "si",
+        ",",
+        "moi",
+        "aussi",
+        ",",
+        "je",
+        "aimer",
+        "bien",
+        "lire",
+        ",",
+        "mais",
+        "je",
+        "ne",
+        "avoir",
+        "plus",
+        "beaucoup de",
+        "temps",
+        "depuis que",
+        "je",
+        "avoir",
+        "un",
+        "enfant",
+        ";"
+      ],
+      "seg_phrase_original": [
+        "-",
+        "Si",
+        ",",
+        "moi",
+        "aussi",
+        ",",
+        "j'",
+        "aime",
+        "bien",
+        "lire",
+        ",",
+        "mais",
+        "je",
+        "n'",
+        "ai",
+        "plus",
+        "beaucoup de",
+        "temps",
+        "depuis que",
+        "j'",
+        "ai",
+        "des",
+        "enfants",
+        ";"
+      ],
+      "phrase_original": "- Si, moi aussi, j'aime bien lire, mais je n'ai plus beaucoup de temps depuis que j'ai des enfants ;"
+    },
+    "replace": false,
+    "replace_phrase": ""
+  },
+  {
+    "phrase": "  je devoir en lire trois ou quatre par an , pas plus .",
+    "table": [
+      {
+        "word": " ",
+        "lemma": " ",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "je",
+        "lemma": "je",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "dois",
+        "lemma": "devoir",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "en",
+        "lemma": "en",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "lire",
+        "lemma": "lire",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "trois",
+        "lemma": "trois",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "ou",
+        "lemma": "ou",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "quatre",
+        "lemma": "quatre",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "par",
+        "lemma": "par",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "an",
+        "lemma": "an",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": ",",
+        "lemma": ",",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "pas",
+        "lemma": "pas",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "plus",
+        "lemma": "plus",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": ".",
+        "lemma": ".",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      }
+    ],
+    "seg_phrase_info": {
+      "rule_info": [],
+      "seg_phrase": [
+        " ",
+        "je",
+        "devoir",
+        "en",
+        "lire",
+        "trois",
+        "ou",
+        "quatre",
+        "par",
+        "an",
+        ",",
+        "pas",
+        "plus",
+        "."
+      ],
+      "seg_phrase_original": [
+        " ",
+        "je",
+        "dois",
+        "en",
+        "lire",
+        "trois",
+        "ou",
+        "quatre",
+        "par",
+        "an",
+        ",",
+        "pas",
+        "plus",
+        "."
+      ],
+      "phrase_original": " je dois en lire trois ou quatre par an, pas plus."
+    },
+    "replace": false,
+    "replace_phrase": ""
+  },
+  {
+    "phrase": "  et surtout pendant le vacance . \n",
+    "table": [
+      {
+        "word": " ",
+        "lemma": " ",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "Et",
+        "lemma": "et",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "surtout",
+        "lemma": "surtout",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "pendant",
+        "lemma": "pendant",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "les",
+        "lemma": "le",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "vacances",
+        "lemma": "vacance",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": ".",
+        "lemma": ".",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "\n",
+        "lemma": "\n",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      }
+    ],
+    "seg_phrase_info": {
+      "rule_info": [],
+      "seg_phrase": [
+        " ",
+        "et",
+        "surtout",
+        "pendant",
+        "le",
+        "vacance",
+        ".",
+        "\n"
+      ],
+      "seg_phrase_original": [
+        " ",
+        "Et",
+        "surtout",
+        "pendant",
+        "les",
+        "vacances",
+        ".",
+        "\n"
+      ],
+      "phrase_original": " Et surtout pendant les vacances.\n"
+    },
+    "replace": false,
+    "replace_phrase": ""
+  },
+  {
+    "phrase": "- ah !",
+    "table": [
+      {
+        "word": "-",
+        "lemma": "-",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "Ah",
+        "lemma": "ah",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "!",
+        "lemma": "!",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      }
+    ],
+    "seg_phrase_info": {
+      "rule_info": [],
+      "seg_phrase": [
+        "-",
+        "ah",
+        "!"
+      ],
+      "seg_phrase_original": [
+        "-",
+        "Ah",
+        "!"
+      ],
+      "phrase_original": "- Ah !"
+    },
+    "replace": false,
+    "replace_phrase": ""
+  },
+  {
+    "phrase": "moi , en vacance ou pas , je lire tout le temps , ne importer où , ne importer quand : dans le métro , chez le dentiste , en faire le queue à le poste même !",
+    "table": [
+      {
+        "word": "Moi",
+        "lemma": "moi",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": ",",
+        "lemma": ",",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "en",
+        "lemma": "en",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "vacances",
+        "lemma": "vacance",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "ou",
+        "lemma": "ou",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "pas",
+        "lemma": "pas",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": ",",
+        "lemma": ",",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "je",
+        "lemma": "je",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "lis",
+        "lemma": "lire",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "tout le temps",
+        "lemma": "tout le temps",
+        "key": "EPL",
+        "temp_info": "",
+        "EPL_info": [
+          {
+            "type": "locution",
+            "niveau": "A2",
+            "category": "ADV",
+            "explication": "(Familier) Sans cesse, toujours"
+          }
+        ],
+        "replace": "None",
+        "exercise": "Est-ce que toutes les barrières contre la maladie fonctionnent tout le temps ?"
+      },
+      {
+        "word": ",",
+        "lemma": ",",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "n'",
+        "lemma": "ne",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "importe",
+        "lemma": "importer",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "où",
+        "lemma": "où",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": ",",
+        "lemma": ",",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "n'",
+        "lemma": "ne",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "importe",
+        "lemma": "importer",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "quand",
+        "lemma": "quand",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": ":",
+        "lemma": ":",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "dans",
+        "lemma": "dans",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "le",
+        "lemma": "le",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "métro",
+        "lemma": "métro",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": ",",
+        "lemma": ",",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "chez",
+        "lemma": "chez",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "le",
+        "lemma": "le",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "dentiste",
+        "lemma": "dentiste",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": ",",
+        "lemma": ",",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "en",
+        "lemma": "en",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "faisant",
+        "lemma": "faire",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "la",
+        "lemma": "le",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "queue",
+        "lemma": "queue",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "à",
+        "lemma": "à",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "la",
+        "lemma": "le",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "poste",
+        "lemma": "poste",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "même",
+        "lemma": "même",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "!",
+        "lemma": "!",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      }
+    ],
+    "seg_phrase_info": {
+      "rule_info": [
+        {
+          "expr": "tout le temps",
+          "rule": "combine,tout+le+temps,tout le temps,EPL\n"
+        }
+      ],
+      "seg_phrase": [
+        "moi",
+        ",",
+        "en",
+        "vacance",
+        "ou",
+        "pas",
+        ",",
+        "je",
+        "lire",
+        "tout le temps",
+        ",",
+        "ne",
+        "importer",
+        "où",
+        ",",
+        "ne",
+        "importer",
+        "quand",
+        ":",
+        "dans",
+        "le",
+        "métro",
+        ",",
+        "chez",
+        "le",
+        "dentiste",
+        ",",
+        "en",
+        "faire",
+        "le",
+        "queue",
+        "à",
+        "le",
+        "poste",
+        "même",
+        "!"
+      ],
+      "seg_phrase_original": [
+        "Moi",
+        ",",
+        "en",
+        "vacances",
+        "ou",
+        "pas",
+        ",",
+        "je",
+        "lis",
+        "tout le temps",
+        ",",
+        "n'",
+        "importe",
+        "où",
+        ",",
+        "n'",
+        "importe",
+        "quand",
+        ":",
+        "dans",
+        "le",
+        "métro",
+        ",",
+        "chez",
+        "le",
+        "dentiste",
+        ",",
+        "en",
+        "faisant",
+        "la",
+        "queue",
+        "à",
+        "la",
+        "poste",
+        "même",
+        "!"
+      ],
+      "phrase_original": "Moi, en vacances ou pas, je lis tout le temps, n'importe où, n'importe quand : dans le métro, chez le dentiste, en faisant la queue à la poste même !"
+    },
+    "replace": false,
+    "replace_phrase": ""
+  },
+  {
+    "phrase": "  et pouvoir le soir , dans mon lit , aussi . \n",
+    "table": [
+      {
+        "word": " ",
+        "lemma": " ",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "Et",
+        "lemma": "et",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "puis",
+        "lemma": "pouvoir",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "le",
+        "lemma": "le",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "soir",
+        "lemma": "soir",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": ",",
+        "lemma": ",",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "dans",
+        "lemma": "dans",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "mon",
+        "lemma": "mon",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "lit",
+        "lemma": "lit",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": ",",
+        "lemma": ",",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "aussi",
+        "lemma": "aussi",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": ".",
+        "lemma": ".",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "\n",
+        "lemma": "\n",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      }
+    ],
+    "seg_phrase_info": {
+      "rule_info": [],
+      "seg_phrase": [
+        " ",
+        "et",
+        "pouvoir",
+        "le",
+        "soir",
+        ",",
+        "dans",
+        "mon",
+        "lit",
+        ",",
+        "aussi",
+        ".",
+        "\n"
+      ],
+      "seg_phrase_original": [
+        " ",
+        "Et",
+        "puis",
+        "le",
+        "soir",
+        ",",
+        "dans",
+        "mon",
+        "lit",
+        ",",
+        "aussi",
+        ".",
+        "\n"
+      ],
+      "phrase_original": " Et puis le soir, dans mon lit, aussi.\n"
+    },
+    "replace": false,
+    "replace_phrase": ""
+  },
+  {
+    "phrase": "- et comment tu faire , toi , pour choisir un livre ? \n",
+    "table": [
+      {
+        "word": "-",
+        "lemma": "-",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "Et",
+        "lemma": "et",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "comment",
+        "lemma": "comment",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "tu",
+        "lemma": "tu",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "fais",
+        "lemma": "faire",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": ",",
+        "lemma": ",",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "toi",
+        "lemma": "toi",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": ",",
+        "lemma": ",",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "pour",
+        "lemma": "pour",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "choisir",
+        "lemma": "choisir",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "un",
+        "lemma": "un",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "livre",
+        "lemma": "livre",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "?",
+        "lemma": "?",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "\n",
+        "lemma": "\n",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      }
+    ],
+    "seg_phrase_info": {
+      "rule_info": [],
+      "seg_phrase": [
+        "-",
+        "et",
+        "comment",
+        "tu",
+        "faire",
+        ",",
+        "toi",
+        ",",
+        "pour",
+        "choisir",
+        "un",
+        "livre",
+        "?",
+        "\n"
+      ],
+      "seg_phrase_original": [
+        "-",
+        "Et",
+        "comment",
+        "tu",
+        "fais",
+        ",",
+        "toi",
+        ",",
+        "pour",
+        "choisir",
+        "un",
+        "livre",
+        "?",
+        "\n"
+      ],
+      "phrase_original": "- Et comment tu fais, toi, pour choisir un livre ?\n"
+    },
+    "replace": false,
+    "replace_phrase": ""
+  },
+  {
+    "phrase": "- oh , être ce être un auteur que je connaître et que je aimer , et je le acheter direct , être je en avoir entendre parler ou bien il avoir avoir un prix , alors je regarder et ce être le premier page qui décider si je aller le lire ou non ...",
+    "table": [
+      {
+        "word": "-",
+        "lemma": "-",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "Oh",
+        "lemma": "oh",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": ",",
+        "lemma": ",",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "soit",
+        "lemma": "être",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "c'",
+        "lemma": "ce",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "est",
+        "lemma": "être",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "un",
+        "lemma": "un",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "auteur",
+        "lemma": "auteur",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "que",
+        "lemma": "que",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "je",
+        "lemma": "je",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "connais",
+        "lemma": "connaître",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "et",
+        "lemma": "et",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "que",
+        "lemma": "que",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "j'",
+        "lemma": "je",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "aime",
+        "lemma": "aimer",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": ",",
+        "lemma": ",",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "et",
+        "lemma": "et",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "je",
+        "lemma": "je",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "l'",
+        "lemma": "le",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "achète",
+        "lemma": "acheter",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "direct",
+        "lemma": "direct",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": ",",
+        "lemma": ",",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "soit",
+        "lemma": "être",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "j'",
+        "lemma": "je",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "en",
+        "lemma": "en",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "ai",
+        "lemma": "avoir",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "entendu",
+        "lemma": "entendre",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "parler",
+        "lemma": "parler",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "ou",
+        "lemma": "ou",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "bien",
+        "lemma": "bien",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "il",
+        "lemma": "il",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "a",
+        "lemma": "avoir",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "eu",
+        "lemma": "avoir",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "un",
+        "lemma": "un",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "prix",
+        "lemma": "prix",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": ",",
+        "lemma": ",",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "alors",
+        "lemma": "alors",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "je",
+        "lemma": "je",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "regarde",
+        "lemma": "regarder",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "et",
+        "lemma": "et",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "c'",
+        "lemma": "ce",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "est",
+        "lemma": "être",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "les",
+        "lemma": "le",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "premières",
+        "lemma": "premier",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "pages",
+        "lemma": "page",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "qui",
+        "lemma": "qui",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "décident",
+        "lemma": "décider",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "si",
+        "lemma": "si",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "je",
+        "lemma": "je",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "vais",
+        "lemma": "aller",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "le",
+        "lemma": "le",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "lire",
+        "lemma": "lire",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "ou",
+        "lemma": "ou",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "non",
+        "lemma": "non",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "...",
+        "lemma": "...",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      }
+    ],
+    "seg_phrase_info": {
+      "rule_info": [],
+      "seg_phrase": [
+        "-",
+        "oh",
+        ",",
+        "être",
+        "ce",
+        "être",
+        "un",
+        "auteur",
+        "que",
+        "je",
+        "connaître",
+        "et",
+        "que",
+        "je",
+        "aimer",
+        ",",
+        "et",
+        "je",
+        "le",
+        "acheter",
+        "direct",
+        ",",
+        "être",
+        "je",
+        "en",
+        "avoir",
+        "entendre",
+        "parler",
+        "ou",
+        "bien",
+        "il",
+        "avoir",
+        "avoir",
+        "un",
+        "prix",
+        ",",
+        "alors",
+        "je",
+        "regarder",
+        "et",
+        "ce",
+        "être",
+        "le",
+        "premier",
+        "page",
+        "qui",
+        "décider",
+        "si",
+        "je",
+        "aller",
+        "le",
+        "lire",
+        "ou",
+        "non",
+        "..."
+      ],
+      "seg_phrase_original": [
+        "-",
+        "Oh",
+        ",",
+        "soit",
+        "c'",
+        "est",
+        "un",
+        "auteur",
+        "que",
+        "je",
+        "connais",
+        "et",
+        "que",
+        "j'",
+        "aime",
+        ",",
+        "et",
+        "je",
+        "l'",
+        "achète",
+        "direct",
+        ",",
+        "soit",
+        "j'",
+        "en",
+        "ai",
+        "entendu",
+        "parler",
+        "ou",
+        "bien",
+        "il",
+        "a",
+        "eu",
+        "un",
+        "prix",
+        ",",
+        "alors",
+        "je",
+        "regarde",
+        "et",
+        "c'",
+        "est",
+        "les",
+        "premières",
+        "pages",
+        "qui",
+        "décident",
+        "si",
+        "je",
+        "vais",
+        "le",
+        "lire",
+        "ou",
+        "non",
+        "..."
+      ],
+      "phrase_original": "- Oh, soit c'est un auteur que je connais et que j'aime, et je l'achète direct, soit j'en ai entendu parler ou bien il a eu un prix, alors je regarde et c'est les premières pages qui décident si je vais le lire ou non..."
+    },
+    "replace": false,
+    "replace_phrase": ""
+  },
+  {
+    "phrase": "et toi , elodie ? \n",
+    "table": [
+      {
+        "word": "Et",
+        "lemma": "et",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "toi",
+        "lemma": "toi",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": ",",
+        "lemma": ",",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "Elodie",
+        "lemma": "elodie",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "?",
+        "lemma": "?",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "\n",
+        "lemma": "\n",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      }
+    ],
+    "seg_phrase_info": {
+      "rule_info": [],
+      "seg_phrase": [
+        "et",
+        "toi",
+        ",",
+        "elodie",
+        "?",
+        "\n"
+      ],
+      "seg_phrase_original": [
+        "Et",
+        "toi",
+        ",",
+        "Elodie",
+        "?",
+        "\n"
+      ],
+      "phrase_original": "Et toi, Elodie?\n"
+    },
+    "replace": false,
+    "replace_phrase": ""
+  },
+  {
+    "phrase": "- moi , ce être plus hésiter , je regarder le premier et le dernier page , je lire le quatrième de couverture , je feuilleter jusque à ce que un passage retenir mon attention et si cela me plaire , je le acheter . \n",
+    "table": [
+      {
+        "word": "-",
+        "lemma": "-",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "Moi",
+        "lemma": "moi",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": ",",
+        "lemma": ",",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "c'",
+        "lemma": "ce",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "est",
+        "lemma": "être",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "plus",
+        "lemma": "plus",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "hésitant",
+        "lemma": "hésiter",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": ",",
+        "lemma": ",",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "je",
+        "lemma": "je",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "regarde",
+        "lemma": "regarder",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "la",
+        "lemma": "le",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "première",
+        "lemma": "premier",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "et",
+        "lemma": "et",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "la",
+        "lemma": "le",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "dernière",
+        "lemma": "dernier",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "page",
+        "lemma": "page",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": ",",
+        "lemma": ",",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "je",
+        "lemma": "je",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "lis",
+        "lemma": "lire",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "la",
+        "lemma": "le",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "quatrième",
+        "lemma": "quatrième",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "de",
+        "lemma": "de",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "couverture",
+        "lemma": "couverture",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": ",",
+        "lemma": ",",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "je",
+        "lemma": "je",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "feuillette",
+        "lemma": "feuilleter",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "jusqu' à ce qu'",
+        "lemma": "jusque à ce que",
+        "key": "EPL",
+        "temp_info": "",
+        "EPL_info": [
+          {
+            "type": "locution",
+            "niveau": "A2",
+            "category": "CONJS",
+            "explication": "En attendant qu’un fait se produise à un moment donné et sans dépasser ce terme."
+          }
+        ],
+        "replace": "None",
+        "exercise": "Faire marcher l'agitateur jusqu'à ce que la cuve soit vide."
+      },
+      {
+        "word": "un",
+        "lemma": "un",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "passage",
+        "lemma": "passage",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "retienne",
+        "lemma": "retenir",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "mon",
+        "lemma": "mon",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "attention",
+        "lemma": "attention",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "et",
+        "lemma": "et",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "si",
+        "lemma": "si",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "ça",
+        "lemma": "cela",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "me",
+        "lemma": "me",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "plaît",
+        "lemma": "plaire",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": ",",
+        "lemma": ",",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "je",
+        "lemma": "je",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "l'",
+        "lemma": "le",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "achète",
+        "lemma": "acheter",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": ".",
+        "lemma": ".",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "\n",
+        "lemma": "\n",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      }
+    ],
+    "seg_phrase_info": {
+      "rule_info": [
+        {
+          "expr": "jusque à ce que",
+          "rule": "combine,jusque+à+ce+que,jusque à ce que,EPL\n"
+        }
+      ],
+      "seg_phrase": [
+        "-",
+        "moi",
+        ",",
+        "ce",
+        "être",
+        "plus",
+        "hésiter",
+        ",",
+        "je",
+        "regarder",
+        "le",
+        "premier",
+        "et",
+        "le",
+        "dernier",
+        "page",
+        ",",
+        "je",
+        "lire",
+        "le",
+        "quatrième",
+        "de",
+        "couverture",
+        ",",
+        "je",
+        "feuilleter",
+        "jusque à ce que",
+        "un",
+        "passage",
+        "retenir",
+        "mon",
+        "attention",
+        "et",
+        "si",
+        "cela",
+        "me",
+        "plaire",
+        ",",
+        "je",
+        "le",
+        "acheter",
+        ".",
+        "\n"
+      ],
+      "seg_phrase_original": [
+        "-",
+        "Moi",
+        ",",
+        "c'",
+        "est",
+        "plus",
+        "hésitant",
+        ",",
+        "je",
+        "regarde",
+        "la",
+        "première",
+        "et",
+        "la",
+        "dernière",
+        "page",
+        ",",
+        "je",
+        "lis",
+        "la",
+        "quatrième",
+        "de",
+        "couverture",
+        ",",
+        "je",
+        "feuillette",
+        "jusqu' à ce qu'",
+        "un",
+        "passage",
+        "retienne",
+        "mon",
+        "attention",
+        "et",
+        "si",
+        "ça",
+        "me",
+        "plaît",
+        ",",
+        "je",
+        "l'",
+        "achète",
+        ".",
+        "\n"
+      ],
+      "phrase_original": "- Moi, c'est plus hésitant, je regarde la première et la dernière page, je lis la quatrième de couverture, je feuillette jusqu'à ce qu'un passage retienne mon attention et si ça me plaît, je l'achète.\n"
+    },
+    "replace": false,
+    "replace_phrase": ""
+  },
+  {
+    "phrase": "au fait , il être bien , ton bouquin , parce que je avoir entendre un interview ...",
+    "table": [
+      {
+        "word": "Au fait",
+        "lemma": "au fait",
+        "key": "EPL",
+        "temp_info": "",
+        "EPL_info": [
+          {
+            "type": "locution",
+            "niveau": "A1",
+            "category": "ADV",
+            "explication": "Au courant."
+          }
+        ],
+        "replace": "None",
+        "exercise": "il est au fait sur cette affaire."
+      },
+      {
+        "word": ",",
+        "lemma": ",",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "il",
+        "lemma": "il",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "est",
+        "lemma": "être",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "bien",
+        "lemma": "bien",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": ",",
+        "lemma": ",",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "ton",
+        "lemma": "ton",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "bouquin",
+        "lemma": "bouquin",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": ",",
+        "lemma": ",",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "parce que",
+        "lemma": "parce que",
+        "key": "EPL",
+        "temp_info": "",
+        "EPL_info": [
+          {
+            "type": "mot fuctionnel complexe",
+            "niveau": "A1",
+            "category": "CONJS",
+            "explication": "Sert à marquer la raison de ce qu’on a dit, le motif de ce qu’on a fait, la cause d'un événement"
+          }
+        ],
+        "replace": "None",
+        "exercise": "Etre privé de services de santé parce que vous êtes travailleur migrant. "
+      },
+      {
+        "word": "j'",
+        "lemma": "je",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "ai",
+        "lemma": "avoir",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "entendu",
+        "lemma": "entendre",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "une",
+        "lemma": "un",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "interview",
+        "lemma": "interview",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "...",
+        "lemma": "...",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      }
+    ],
+    "seg_phrase_info": {
+      "rule_info": [
+        {
+          "expr": "au fait",
+          "rule": "combine,au+fait,au fait,EPL\n"
+        },
+        {
+          "expr": "parce que",
+          "rule": "combine,parce+que,parce que,EPL\n"
+        }
+      ],
+      "seg_phrase": [
+        "au fait",
+        ",",
+        "il",
+        "être",
+        "bien",
+        ",",
+        "ton",
+        "bouquin",
+        ",",
+        "parce que",
+        "je",
+        "avoir",
+        "entendre",
+        "un",
+        "interview",
+        "..."
+      ],
+      "seg_phrase_original": [
+        "Au fait",
+        ",",
+        "il",
+        "est",
+        "bien",
+        ",",
+        "ton",
+        "bouquin",
+        ",",
+        "parce que",
+        "j'",
+        "ai",
+        "entendu",
+        "une",
+        "interview",
+        "..."
+      ],
+      "phrase_original": "Au fait, il est bien, ton bouquin,parce que j'ai entendu une interview..."
+    },
+    "replace": false,
+    "replace_phrase": ""
+  }
+]

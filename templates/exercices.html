@@ -1,0 +1,121 @@
+{% extends "base.html" %}
+{% load static %}
+
+{% block content %}
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simple EPL</title>
+    <link rel="stylesheet" type="text/css" href="{% static '/styles/bootstrap.min.css' %}">
+    <link rel="stylesheet" type="text/css" href="{% static '/styles/exercices.css' %}">
+</head>
+<body>
+    <div class="tableContainer header">
+      <div class="content">
+        Exercices
+      </div>
+      <div class="content">
+        Réponses
+      </div>
+      <div class="score">
+        Score
+      </div>
+    </div>
+    {% for exercice in exercices %}
+          <div class="tableContainer">
+              <div class="content">
+                {% for word in exercice %}
+                  <span class="word" onclick="addWordToDiv(this,`{{ word }}`,'exercise{{ forloop.parentloop.counter }}')">{{ word }}</span>
+                  {% if not forloop.last %}<span>,</span>{% endif %}
+                {% endfor %}
+              </div>
+              <div class="content answer" id="exercise{{ forloop.counter }}" onclick="removeWordFromDiv(this)">
+
+              </div>
+              <div class="score" id="score{{ forloop.counter }}">
+                0
+              </div>
+          </div>
+    {% endfor %}
+
+    <div class="buttonContainer">
+        <button type="button" class="button btn btn-outline-primary" onclick="submit()">Submit</button>
+        <button type="button" class="button btn btn-outline-success" onclick="switchToLearn()">Go to learning page</button>
+    </div>
+    <script>
+        // la fonction pour ajouter un mot sélectionné
+        function addWordToDiv(span, word, divId) {
+            let selectedWordsContainer = document.getElementById(divId);
+            let wordExists = Array.from(selectedWordsContainer.children).some(function(child) {
+                return child.textContent === word;
+            });
+
+            if (!wordExists) {
+                let newSpan = document.createElement("span");
+                newSpan.textContent = word+' ';
+                newSpan.classList.add("selected-word");
+                selectedWordsContainer.appendChild(newSpan);
+            }
+        }
+
+        // la fonction pour retirer un mot
+        function removeWordFromDiv(div) {
+            if (event.target.classList.contains("selected-word")) {
+                div.removeChild(event.target);
+            }
+        }
+
+        // la fonction pour soumettre les réponses
+        function submit() {
+          // on compare la réponse et la référence pour obtenir un taux de précision
+          let references = {{ references|safe }};
+          let answerDivs = document.querySelectorAll('.answer');
+          answerDivs.forEach(function (div,index) {
+            let words = []
+            let wordSpans = div.querySelectorAll('span.selected-word');
+            wordSpans.forEach(function (span) {
+              words.push(span.textContent.trim());
+            });
+            const score=calculateSimilarity(references[index], words)
+            // affichier les scores
+            scoreDiv=document.getElementById(`score${index+1}`);
+            scoreDiv.innerText=score
+          });
+
+        }
+
+        // la fonction pour calculer la similarité entre la réponse et la référence
+        function calculateSimilarity(reference, sentence) {
+            let minLength = Math.min(reference.length, sentence.length);
+            let similarityCount = 0;
+
+            for (let i = 0; i < minLength; i++) {
+                if (reference[i] === sentence[i]) {
+                    similarityCount++;
+                }
+            }
+
+            let similarityPercentage = (similarityCount / reference.length) * 100;
+            let formattedSimilarity = similarityPercentage.toFixed(2) + '%';
+
+            return formattedSimilarity;
+        }
+
+        // la fonction qui réalise la saute de page
+        function switchToLearn() {
+            // Redirect to the "exercice" page
+            window.location.href = "/";
+        }
+
+    </script>
+</body>
+
+</html>
+
+{% endblock %}
+
+{% block javascript %}
+<script src="{% static 'scripts/home.js' %}"></script>
+{% endblock %}

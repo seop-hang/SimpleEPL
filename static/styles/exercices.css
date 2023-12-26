@@ -1,0 +1,74 @@
+.word {
+    cursor: pointer;
+    transition: color 0.3s ease;
+}
+
+.word:hover {
+    color: red;
+}
+
+.selected-word {
+    cursor: pointer;
+    color: blue;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.tableContainer{
+    display: flex;
+    width: 100%;
+}
+
+.header{
+    line-height: 4;
+    font-weight: bold;
+    font-size: 1.2em;
+}
+
+.content {
+    width: 50%;
+    border: 1px solid #ccc;
+    padding: 10px;
+}
+
+.content:last-child{
+    margin-left: 10px;
+}
+
+.score{
+    width: 10%;
+    border: 1px solid #ccc;
+    padding: 10px;
+    display: flex;
+    align-items:center;
+}
+
+.buttonContainer{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+
+.button {
+    display: block;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    cursor: pointer;
+    align-items: center;
+}
+
+.button:last-child{
+    margin-left: 50px;
+}
+
+.explainContainer{
+    width: 100%;
+    margin-left: 0;
+    margin-top: 40px;
+}

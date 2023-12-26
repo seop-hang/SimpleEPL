@@ -1,0 +1,5 @@
+tag_pos,EPL
+EPL,syntax,CN[lemma==en plus];R1[lemma==de],combine[CN+R1],CN[key==EPL]
+EPL,syntax,CN[lemma==dizaine de];R1[lemma==million de],combine[CN+R1],CN[key==EPL]
+EPL,syntax,CN[lemma==au profit];R1[lemma==de],combine[CN+R1],CN[key==EPL]
+EPL,syntax,CN[lemma==à moins];R1[lemma==que],combine[CN+R1],CN[key==EPL]

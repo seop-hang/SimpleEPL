@@ -1,0 +1,3718 @@
+[
+  {
+    "phrase": "journaliste 2 : Patrick Zelnik , votre mission avoir être , enfin le résultat de votre mission être très critiquer par dison le site le plus libertaire ou libéral - libertaire de net , je penser en particulier à ce qui se écrire sur le quadrature de net .",
+    "table": [
+      {
+        "word": "Journaliste",
+        "lemma": "journaliste",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "2",
+        "lemma": "2",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": ":",
+        "lemma": ":",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "Patrick",
+        "lemma": "Patrick",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "Zelnik",
+        "lemma": "Zelnik",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": ",",
+        "lemma": ",",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "votre",
+        "lemma": "votre",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "mission",
+        "lemma": "mission",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "a",
+        "lemma": "avoir",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "été",
+        "lemma": "être",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": ",",
+        "lemma": ",",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "enfin",
+        "lemma": "enfin",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "les",
+        "lemma": "le",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "résultats",
+        "lemma": "résultat",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "de",
+        "lemma": "de",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "votre",
+        "lemma": "votre",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "mission",
+        "lemma": "mission",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "sont",
+        "lemma": "être",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "très",
+        "lemma": "très",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "critiqués",
+        "lemma": "critiquer",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "par",
+        "lemma": "par",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "disons",
+        "lemma": "dison",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "les",
+        "lemma": "le",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "sites",
+        "lemma": "site",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "les",
+        "lemma": "le",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "plus",
+        "lemma": "plus",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "libertaires",
+        "lemma": "libertaire",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "ou",
+        "lemma": "ou",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "libéraux",
+        "lemma": "libéral",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "-",
+        "lemma": "-",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "libertaires",
+        "lemma": "libertaire",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "du",
+        "lemma": "de",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "net",
+        "lemma": "net",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": ",",
+        "lemma": ",",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "je",
+        "lemma": "je",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "pense",
+        "lemma": "penser",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "en particulier",
+        "lemma": "en particulier",
+        "key": "EPL",
+        "temp_info": "",
+        "EPL_info": [
+          {
+            "type": "locution",
+            "niveau": "A2",
+            "category": "ADV",
+            "explication": "À part, séparément des autres"
+          }
+        ],
+        "replace": "None",
+        "exercise": "M. Legras en particulier s'est montré intraitable sur ce point"
+      },
+      {
+        "word": "à",
+        "lemma": "à",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "ce",
+        "lemma": "ce",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "qui",
+        "lemma": "qui",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "s'",
+        "lemma": "se",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "écrit",
+        "lemma": "écrire",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "sur",
+        "lemma": "sur",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "la",
+        "lemma": "le",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "Quadrature du net",
+        "lemma": "quadrature de net",
+        "key": "EPL",
+        "temp_info": "",
+        "EPL_info": [
+          {
+            "type": "entité nommée",
+            "niveau": "C1",
+            "category": "N",
+            "explication": " une association de défense et de promotion des droits et libertés sur Internet, fondée en 2008"
+          }
+        ],
+        "replace": "None",
+        "exercise": "La Quadrature du Net est une organisation de défense des droits et libertés des citoyens sur Internet"
+      },
+      {
+        "word": ".",
+        "lemma": ".",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      }
+    ],
+    "seg_phrase_info": {
+      "rule_info": [
+        {
+          "expr": "en particulier",
+          "rule": "combine,en+particulier,en particulier,EPL\n"
+        },
+        {
+          "expr": "quadrature de net",
+          "rule": "combine,quadrature+de+net,quadrature de net,EPL\n"
+        }
+      ],
+      "seg_phrase": [
+        "journaliste",
+        "2",
+        ":",
+        "Patrick",
+        "Zelnik",
+        ",",
+        "votre",
+        "mission",
+        "avoir",
+        "être",
+        ",",
+        "enfin",
+        "le",
+        "résultat",
+        "de",
+        "votre",
+        "mission",
+        "être",
+        "très",
+        "critiquer",
+        "par",
+        "dison",
+        "le",
+        "site",
+        "le",
+        "plus",
+        "libertaire",
+        "ou",
+        "libéral",
+        "-",
+        "libertaire",
+        "de",
+        "net",
+        ",",
+        "je",
+        "penser",
+        "en particulier",
+        "à",
+        "ce",
+        "qui",
+        "se",
+        "écrire",
+        "sur",
+        "le",
+        "quadrature de net",
+        "."
+      ],
+      "seg_phrase_original": [
+        "Journaliste",
+        "2",
+        ":",
+        "Patrick",
+        "Zelnik",
+        ",",
+        "votre",
+        "mission",
+        "a",
+        "été",
+        ",",
+        "enfin",
+        "les",
+        "résultats",
+        "de",
+        "votre",
+        "mission",
+        "sont",
+        "très",
+        "critiqués",
+        "par",
+        "disons",
+        "les",
+        "sites",
+        "les",
+        "plus",
+        "libertaires",
+        "ou",
+        "libéraux",
+        "-",
+        "libertaires",
+        "du",
+        "net",
+        ",",
+        "je",
+        "pense",
+        "en particulier",
+        "à",
+        "ce",
+        "qui",
+        "s'",
+        "écrit",
+        "sur",
+        "la",
+        "Quadrature du net",
+        "."
+      ],
+      "phrase_original": "Journaliste 2 : Patrick Zelnik, votre mission a été, enfin les résultats de votre mission sont très critiqués par disons les sites les plus libertaires ou libéraux-libertaires du net, je pense en particulier à ce qui s'écrit sur la Quadrature du net."
+    },
+    "replace": false,
+    "replace_phrase": ""
+  },
+  {
+    "phrase": "je le citer : « le mission Zelnik accoucher de un vilain petit souris , quelque dizaine de million de euro de subvention à un business dépasser , financer via un taxe complexe et tout azimut . »",
+    "table": [
+      {
+        "word": "Je",
+        "lemma": "je",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "les",
+        "lemma": "le",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "cite",
+        "lemma": "citer",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": ":",
+        "lemma": ":",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "«",
+        "lemma": "«",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "La",
+        "lemma": "le",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "mission",
+        "lemma": "mission",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "Zelnik",
+        "lemma": "Zelnik",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "accouche",
+        "lemma": "accoucher",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "d'",
+        "lemma": "de",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "une",
+        "lemma": "un",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "vilaine",
+        "lemma": "vilain",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "petite",
+        "lemma": "petit",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "souris",
+        "lemma": "souris",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": ",",
+        "lemma": ",",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "quelques",
+        "lemma": "quelque",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "dizaines de millions d'",
+        "lemma": "dizaine de million de",
+        "key": "EPL",
+        "temp_info": "",
+        "EPL_info": [
+          {
+            "type": "mot fuctionnel complexe",
+            "niveau": "C2",
+            "category": "DET",
+            "explication": "chiffre"
+          }
+        ],
+        "replace": "10 000 000",
+        "exercise": "Cela entraînera le chômage pour des dizaines de millions de travailleurs."
+      },
+      {
+        "word": "euros",
+        "lemma": "euro",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "de",
+        "lemma": "de",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "subventions",
+        "lemma": "subvention",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "à",
+        "lemma": "à",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "des",
+        "lemma": "un",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "business",
+        "lemma": "business",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "dépassés",
+        "lemma": "dépasser",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": ",",
+        "lemma": ",",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "financés",
+        "lemma": "financer",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "via",
+        "lemma": "via",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "des",
+        "lemma": "un",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "taxes",
+        "lemma": "taxe",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "complexes",
+        "lemma": "complexe",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "et",
+        "lemma": "et",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "tout",
+        "lemma": "tout",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "azimut",
+        "lemma": "azimut",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": ".",
+        "lemma": ".",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "»",
+        "lemma": "»",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      }
+    ],
+    "seg_phrase_info": {
+      "rule_info": [
+        {
+          "expr": "dizaine de",
+          "rule": "combine,dizaine+de,dizaine de,EPL\n"
+        },
+        {
+          "expr": "million de",
+          "rule": "combine,million+de,million de,EPL\n"
+        },
+        {
+          "expr": "dizaines de millions d'",
+          "rule": "EPL,syntax,CN[lemma==dizaine de];R1[lemma==million de],combine[CN+R1],CN[key==EPL]\n"
+        }
+      ],
+      "seg_phrase": [
+        "je",
+        "le",
+        "citer",
+        ":",
+        "«",
+        "le",
+        "mission",
+        "Zelnik",
+        "accoucher",
+        "de",
+        "un",
+        "vilain",
+        "petit",
+        "souris",
+        ",",
+        "quelque",
+        "dizaines de millions d'",
+        "euro",
+        "de",
+        "subvention",
+        "à",
+        "un",
+        "business",
+        "dépasser",
+        ",",
+        "financer",
+        "via",
+        "un",
+        "taxe",
+        "complexe",
+        "et",
+        "tout",
+        "azimut",
+        ".",
+        "»"
+      ],
+      "seg_phrase_original": [
+        "Je",
+        "les",
+        "cite",
+        ":",
+        "«",
+        "La",
+        "mission",
+        "Zelnik",
+        "accouche",
+        "d'",
+        "une",
+        "vilaine",
+        "petite",
+        "souris",
+        ",",
+        "quelques",
+        "dizaines de millions d'",
+        "euros",
+        "de",
+        "subventions",
+        "à",
+        "des",
+        "business",
+        "dépassés",
+        ",",
+        "financés",
+        "via",
+        "des",
+        "taxes",
+        "complexes",
+        "et",
+        "tout",
+        "azimut",
+        ".",
+        "»"
+      ],
+      "phrase_original": "Je les cite : « La mission Zelnik accouche d'une vilaine petite souris, quelques dizaines de millions d'euros de subventions à des business dépassés, financés via des taxes complexes et tout azimut.»"
+    },
+    "replace": true,
+    "replace_phrase": "Je les cite : « La mission Zelnik accouche d' une vilaine petite souris , quelques 10 000 000 euros de subventions à des business dépassés , financés via des taxes complexes et tout azimut . »"
+  },
+  {
+    "phrase": "je citer également Philippe Aigrin qui être aussi de le quadrature de net",
+    "table": [
+      {
+        "word": "Je",
+        "lemma": "je",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "cite",
+        "lemma": "citer",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "également",
+        "lemma": "également",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "Philippe",
+        "lemma": "Philippe",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "Aigrin",
+        "lemma": "Aigrin",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "qui",
+        "lemma": "qui",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "est",
+        "lemma": "être",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "aussi",
+        "lemma": "aussi",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "de",
+        "lemma": "de",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "la",
+        "lemma": "le",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "Quadrature du net",
+        "lemma": "quadrature de net",
+        "key": "EPL",
+        "temp_info": "",
+        "EPL_info": [
+          {
+            "type": "entité nommée",
+            "niveau": "C1",
+            "category": "N",
+            "explication": " une association de défense et de promotion des droits et libertés sur Internet, fondée en 2008"
+          }
+        ],
+        "replace": "None",
+        "exercise": "La Quadrature du Net est une organisation de défense des droits et libertés des citoyens sur Internet"
+      }
+    ],
+    "seg_phrase_info": {
+      "rule_info": [
+        {
+          "expr": "quadrature de net",
+          "rule": "combine,quadrature+de+net,quadrature de net,EPL\n"
+        }
+      ],
+      "seg_phrase": [
+        "je",
+        "citer",
+        "également",
+        "Philippe",
+        "Aigrin",
+        "qui",
+        "être",
+        "aussi",
+        "de",
+        "le",
+        "quadrature de net"
+      ],
+      "seg_phrase_original": [
+        "Je",
+        "cite",
+        "également",
+        "Philippe",
+        "Aigrin",
+        "qui",
+        "est",
+        "aussi",
+        "de",
+        "la",
+        "Quadrature du net"
+      ],
+      "phrase_original": "Je cite également Philippe Aigrin qui est aussi de la Quadrature du net"
+    },
+    "replace": false,
+    "replace_phrase": ""
+  },
+  {
+    "phrase": ": « en plus de le guerre engager contre le public par le loi Hadopi , le gouvernement aller mettre de le argent public au profit de quelque intérêt priver cramponner à un vision passéiste de le économie culturel . »",
+    "table": [
+      {
+        "word": ":",
+        "lemma": ":",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "«",
+        "lemma": "«",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "En plus de",
+        "lemma": "en plus de",
+        "key": "EPL",
+        "temp_info": "",
+        "EPL_info": [
+          {
+            "type": "mot fuctionnel complexe",
+            "niveau": "A1",
+            "category": "PREP",
+            "explication": "Comme ajout à"
+          }
+        ],
+        "replace": "None",
+        "exercise": "En plus de protéger contre la corrosion, ce processus facilite le travail mécanique des métaux traités"
+      },
+      {
+        "word": "la",
+        "lemma": "le",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "guerre",
+        "lemma": "guerre",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "engagée",
+        "lemma": "engager",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "contre",
+        "lemma": "contre",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "le",
+        "lemma": "le",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "public",
+        "lemma": "public",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "par",
+        "lemma": "par",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "les",
+        "lemma": "le",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "lois Hadopi",
+        "lemma": "loi Hadopi",
+        "key": "EPL",
+        "temp_info": "",
+        "EPL_info": [
+          {
+            "type": "terme polylexical",
+            "niveau": "C2",
+            "category": "N",
+            "explication": "La loi no 2009-669 du 12 juin 2009 favorisant la diffusion et la protection de la création sur internet, dite loi Hadopi 1"
+          }
+        ],
+        "replace": "None",
+        "exercise": "D'autres événements à venir à Paris et en province sont en préparation, dont un « Jeudi c'est Vivendi » sur la loi Hadopi"
+      },
+      {
+        "word": ",",
+        "lemma": ",",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "le",
+        "lemma": "le",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "gouvernement",
+        "lemma": "gouvernement",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "va",
+        "lemma": "aller",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "mettre",
+        "lemma": "mettre",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "de",
+        "lemma": "de",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "l'",
+        "lemma": "le",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "argent",
+        "lemma": "argent",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "public",
+        "lemma": "public",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "au profit de",
+        "lemma": "au profit de",
+        "key": "EPL",
+        "temp_info": "",
+        "EPL_info": [
+          {
+            "type": "mot fuctionnel complexe",
+            "niveau": "B1",
+            "category": "PREP",
+            "explication": "une volonté de consacrer le résultat d'une action au bénéfice de quelqu'un ou quelque chose"
+          }
+        ],
+        "replace": "None",
+        "exercise": "Ils sont au profit de tous, sans restriction d'utilisation"
+      },
+      {
+        "word": "quelques",
+        "lemma": "quelque",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "intérêts",
+        "lemma": "intérêt",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "privés",
+        "lemma": "priver",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "cramponnés",
+        "lemma": "cramponner",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "à",
+        "lemma": "à",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "une",
+        "lemma": "un",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "vision",
+        "lemma": "vision",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "passéiste",
+        "lemma": "passéiste",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "de",
+        "lemma": "de",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "l'",
+        "lemma": "le",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "économie",
+        "lemma": "économie",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "culturelle",
+        "lemma": "culturel",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": ".",
+        "lemma": ".",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "»",
+        "lemma": "»",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      }
+    ],
+    "seg_phrase_info": {
+      "rule_info": [
+        {
+          "expr": "en plus",
+          "rule": "combine,en+plus,en plus,EPL\n"
+        },
+        {
+          "expr": "loi Hadopi",
+          "rule": "combine,loi+Hadopi,loi Hadopi,EPL\n"
+        },
+        {
+          "expr": "au profit",
+          "rule": "combine,au+profit,au profit,EPL\n"
+        },
+        {
+          "expr": "En plus de",
+          "rule": "EPL,syntax,CN[lemma==en plus];R1[lemma==de],combine[CN+R1],CN[key==EPL]\n"
+        },
+        {
+          "expr": "au profit de",
+          "rule": "EPL,syntax,CN[lemma==au profit];R1[lemma==de],combine[CN+R1],CN[key==EPL]\n"
+        }
+      ],
+      "seg_phrase": [
+        ":",
+        "«",
+        "En plus de",
+        "le",
+        "guerre",
+        "engager",
+        "contre",
+        "le",
+        "public",
+        "par",
+        "le",
+        "loi Hadopi",
+        ",",
+        "le",
+        "gouvernement",
+        "aller",
+        "mettre",
+        "de",
+        "le",
+        "argent",
+        "public",
+        "au profit de",
+        "quelque",
+        "intérêt",
+        "priver",
+        "cramponner",
+        "à",
+        "un",
+        "vision",
+        "passéiste",
+        "de",
+        "le",
+        "économie",
+        "culturel",
+        ".",
+        "»"
+      ],
+      "seg_phrase_original": [
+        ":",
+        "«",
+        "En plus de",
+        "la",
+        "guerre",
+        "engagée",
+        "contre",
+        "le",
+        "public",
+        "par",
+        "les",
+        "lois Hadopi",
+        ",",
+        "le",
+        "gouvernement",
+        "va",
+        "mettre",
+        "de",
+        "l'",
+        "argent",
+        "public",
+        "au profit de",
+        "quelques",
+        "intérêts",
+        "privés",
+        "cramponnés",
+        "à",
+        "une",
+        "vision",
+        "passéiste",
+        "de",
+        "l'",
+        "économie",
+        "culturelle",
+        ".",
+        "»"
+      ],
+      "phrase_original": ": «En plus de la guerre engagée contre le public par les lois Hadopi, le gouvernement va mettre de l'argent public au profit de quelques intérêts privés cramponnés à une vision passéiste de l'économie culturelle.»"
+    },
+    "replace": false,
+    "replace_phrase": ""
+  },
+  {
+    "phrase": "alors être -ce que effectivement il y avoir pas le risque de mettre sou subvention un système économique qui être obsolète ?",
+    "table": [
+      {
+        "word": "Alors",
+        "lemma": "alors",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "est",
+        "lemma": "être",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "-ce",
+        "lemma": "-ce",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "que",
+        "lemma": "que",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "effectivement",
+        "lemma": "effectivement",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "il",
+        "lemma": "il",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "y",
+        "lemma": "y",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "a",
+        "lemma": "avoir",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "pas",
+        "lemma": "pas",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "le",
+        "lemma": "le",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "risque",
+        "lemma": "risque",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "de",
+        "lemma": "de",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "mettre",
+        "lemma": "mettre",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "sous",
+        "lemma": "sou",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "subvention",
+        "lemma": "subvention",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "un",
+        "lemma": "un",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "système économique",
+        "lemma": "système économique",
+        "key": "EPL",
+        "temp_info": "",
+        "EPL_info": [
+          {
+            "type": "locution",
+            "niveau": "C1",
+            "category": "N",
+            "explication": "un mode de fonctionnement de l'activité économique d'un État"
+          }
+        ],
+        "replace": "None",
+        "exercise": "La Sécurité sociale, par ses liens étroits avec le système économique et les finances publiques, est devenue un levier majeur de la politique économique"
+      },
+      {
+        "word": "qui",
+        "lemma": "qui",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "est",
+        "lemma": "être",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "obsolète",
+        "lemma": "obsolète",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "?",
+        "lemma": "?",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      }
+    ],
+    "seg_phrase_info": {
+      "rule_info": [
+        {
+          "expr": "système économique",
+          "rule": "combine,système+économique,système économique,EPL\n"
+        }
+      ],
+      "seg_phrase": [
+        "alors",
+        "être",
+        "-ce",
+        "que",
+        "effectivement",
+        "il",
+        "y",
+        "avoir",
+        "pas",
+        "le",
+        "risque",
+        "de",
+        "mettre",
+        "sou",
+        "subvention",
+        "un",
+        "système économique",
+        "qui",
+        "être",
+        "obsolète",
+        "?"
+      ],
+      "seg_phrase_original": [
+        "Alors",
+        "est",
+        "-ce",
+        "que",
+        "effectivement",
+        "il",
+        "y",
+        "a",
+        "pas",
+        "le",
+        "risque",
+        "de",
+        "mettre",
+        "sous",
+        "subvention",
+        "un",
+        "système économique",
+        "qui",
+        "est",
+        "obsolète",
+        "?"
+      ],
+      "phrase_original": "Alors est-ce que effectivement il y a pas le risque de mettre sous subvention un système économique qui est obsolète ?"
+    },
+    "replace": false,
+    "replace_phrase": ""
+  },
+  {
+    "phrase": "est -ce que on risque pas de se retrouver dans un situation où , dison , le état français avoir taxer le industrie de le imprimerie naissant au xvi siècle pour continuer à faire vivre le copiste de le bible sou prétexte que ce être un concurrence déloyal ? \n",
+    "table": [
+      {
+        "word": "Est",
+        "lemma": "est",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "-ce",
+        "lemma": "-ce",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "qu'",
+        "lemma": "que",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "on",
+        "lemma": "on",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "risque",
+        "lemma": "risque",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "pas",
+        "lemma": "pas",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "de",
+        "lemma": "de",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "se",
+        "lemma": "se",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "retrouver",
+        "lemma": "retrouver",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "dans",
+        "lemma": "dans",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "une",
+        "lemma": "un",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "situation",
+        "lemma": "situation",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "où",
+        "lemma": "où",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": ",",
+        "lemma": ",",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "disons",
+        "lemma": "dison",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": ",",
+        "lemma": ",",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "l'",
+        "lemma": "le",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "État français",
+        "lemma": "état français",
+        "key": "EPL",
+        "temp_info": "",
+        "EPL_info": [
+          {
+            "type": "terme polylexical",
+            "niveau": "C2",
+            "category": "N",
+            "explication": "Régime politique de la France, de juillet 1940 à août 1944"
+          }
+        ],
+        "replace": "None",
+        "exercise": "L'État Français instaure une Révolution Nationale centrée sur le culte de la personnalité de Pétain."
+      },
+      {
+        "word": "aurait",
+        "lemma": "avoir",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "taxé",
+        "lemma": "taxer",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "l'",
+        "lemma": "le",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "industrie",
+        "lemma": "industrie",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "de",
+        "lemma": "de",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "l'",
+        "lemma": "le",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "imprimerie",
+        "lemma": "imprimerie",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "naissante",
+        "lemma": "naissant",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "au",
+        "lemma": "au",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "XVIe",
+        "lemma": "xvi",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "siècle",
+        "lemma": "siècle",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "pour",
+        "lemma": "pour",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "continuer à",
+        "lemma": "continuer à",
+        "key": "EPL",
+        "temp_info": "",
+        "EPL_info": [
+          {
+            "type": "locution",
+            "niveau": "B1",
+            "category": "V",
+            "explication": " Continuer à » s’applique à une action commencée qui se poursuit"
+          }
+        ],
+        "replace": "None",
+        "exercise": "L'équipe commerciale en place a été renforcée afin de continuer à développer la clientèle"
+      },
+      {
+        "word": "faire",
+        "lemma": "faire",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "vivre",
+        "lemma": "vivre",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "les",
+        "lemma": "le",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "copistes",
+        "lemma": "copiste",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "de",
+        "lemma": "de",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "la",
+        "lemma": "le",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "Bible",
+        "lemma": "bible",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "sous prétexte que",
+        "lemma": "sou prétexte que",
+        "key": "EPL",
+        "temp_info": "",
+        "EPL_info": [
+          {
+            "type": "mot fuctionnel complexe",
+            "niveau": "B2",
+            "category": "CONJS",
+            "explication": ""
+          }
+        ],
+        "replace": "None",
+        "exercise": "Ces renseignements seront toujours cachés sous prétexte que nous encouragerions l'ennemi."
+      },
+      {
+        "word": "c'",
+        "lemma": "ce",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "était",
+        "lemma": "être",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "une",
+        "lemma": "un",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "concurrence",
+        "lemma": "concurrence",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "déloyale",
+        "lemma": "déloyal",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "?",
+        "lemma": "?",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "\n",
+        "lemma": "\n",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      }
+    ],
+    "seg_phrase_info": {
+      "rule_info": [
+        {
+          "expr": "état français",
+          "rule": "combine,état+français,état français,EPL\n"
+        },
+        {
+          "expr": "continuer à",
+          "rule": "combine,continuer+à,continuer à,EPL\n"
+        },
+        {
+          "expr": "sou prétexte que",
+          "rule": "combine,sou+prétexte+que,sou prétexte que,EPL\n"
+        }
+      ],
+      "seg_phrase": [
+        "est",
+        "-ce",
+        "que",
+        "on",
+        "risque",
+        "pas",
+        "de",
+        "se",
+        "retrouver",
+        "dans",
+        "un",
+        "situation",
+        "où",
+        ",",
+        "dison",
+        ",",
+        "le",
+        "état français",
+        "avoir",
+        "taxer",
+        "le",
+        "industrie",
+        "de",
+        "le",
+        "imprimerie",
+        "naissant",
+        "au",
+        "xvi",
+        "siècle",
+        "pour",
+        "continuer à",
+        "faire",
+        "vivre",
+        "le",
+        "copiste",
+        "de",
+        "le",
+        "bible",
+        "sou prétexte que",
+        "ce",
+        "être",
+        "un",
+        "concurrence",
+        "déloyal",
+        "?",
+        "\n"
+      ],
+      "seg_phrase_original": [
+        "Est",
+        "-ce",
+        "qu'",
+        "on",
+        "risque",
+        "pas",
+        "de",
+        "se",
+        "retrouver",
+        "dans",
+        "une",
+        "situation",
+        "où",
+        ",",
+        "disons",
+        ",",
+        "l'",
+        "État français",
+        "aurait",
+        "taxé",
+        "l'",
+        "industrie",
+        "de",
+        "l'",
+        "imprimerie",
+        "naissante",
+        "au",
+        "XVIe",
+        "siècle",
+        "pour",
+        "continuer à",
+        "faire",
+        "vivre",
+        "les",
+        "copistes",
+        "de",
+        "la",
+        "Bible",
+        "sous prétexte que",
+        "c'",
+        "était",
+        "une",
+        "concurrence",
+        "déloyale",
+        "?",
+        "\n"
+      ],
+      "phrase_original": "Est-ce qu'on risque pas de se retrouver dans une situation où, disons, l'État français aurait taxé l'industrie de l'imprimerie naissante au XVIe siècle pour continuer à faire vivre les copistes de la Bible sous prétexte que c'était une concurrence déloyale ?\n"
+    },
+    "replace": false,
+    "replace_phrase": ""
+  },
+  {
+    "phrase": "Patrick Zelnik : Philippe Aigrin avoir le plume facile , je ne savoir pas ce que il en être de ...... vraiment de le état de son réflexion .",
+    "table": [
+      {
+        "word": "Patrick",
+        "lemma": "Patrick",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "Zelnik",
+        "lemma": "Zelnik",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": ":",
+        "lemma": ":",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "Philippe",
+        "lemma": "Philippe",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "Aigrin",
+        "lemma": "Aigrin",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "a la plume facile",
+        "lemma": "avoir le plume facile",
+        "key": "EPL",
+        "temp_info": "",
+        "EPL_info": [
+          {
+            "type": "expression idiomatique",
+            "niveau": "C2",
+            "category": "V",
+            "explication": "Écrire avec aisance"
+          }
+        ],
+        "replace": "écrit avec aisance",
+        "exercise": "Vous aimez jongler avec les mots et avez la plume facile"
+      },
+      {
+        "word": ",",
+        "lemma": ",",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "je",
+        "lemma": "je",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "ne",
+        "lemma": "ne",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "sais",
+        "lemma": "savoir",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "pas",
+        "lemma": "pas",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "ce",
+        "lemma": "ce",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "qu'",
+        "lemma": "que",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "il",
+        "lemma": "il",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "en",
+        "lemma": "en",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "est",
+        "lemma": "être",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "de",
+        "lemma": "de",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "......",
+        "lemma": "......",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "vraiment",
+        "lemma": "vraiment",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "de",
+        "lemma": "de",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "l'",
+        "lemma": "le",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "état",
+        "lemma": "état",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "de",
+        "lemma": "de",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "ses",
+        "lemma": "son",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "réflexions",
+        "lemma": "réflexion",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": ".",
+        "lemma": ".",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      }
+    ],
+    "seg_phrase_info": {
+      "rule_info": [
+        {
+          "expr": "avoir le plume facile",
+          "rule": "combine,avoir+le+plume+facile,avoir le plume facile,EPL\n"
+        }
+      ],
+      "seg_phrase": [
+        "Patrick",
+        "Zelnik",
+        ":",
+        "Philippe",
+        "Aigrin",
+        "avoir le plume facile",
+        ",",
+        "je",
+        "ne",
+        "savoir",
+        "pas",
+        "ce",
+        "que",
+        "il",
+        "en",
+        "être",
+        "de",
+        "......",
+        "vraiment",
+        "de",
+        "le",
+        "état",
+        "de",
+        "son",
+        "réflexion",
+        "."
+      ],
+      "seg_phrase_original": [
+        "Patrick",
+        "Zelnik",
+        ":",
+        "Philippe",
+        "Aigrin",
+        "a la plume facile",
+        ",",
+        "je",
+        "ne",
+        "sais",
+        "pas",
+        "ce",
+        "qu'",
+        "il",
+        "en",
+        "est",
+        "de",
+        "......",
+        "vraiment",
+        "de",
+        "l'",
+        "état",
+        "de",
+        "ses",
+        "réflexions",
+        "."
+      ],
+      "phrase_original": "Patrick Zelnik : Philippe Aigrin a la plume facile, je ne sais pas ce qu'il en est de...... vraiment de l'état de ses réflexions."
+    },
+    "replace": true,
+    "replace_phrase": "Patrick Zelnik : Philippe Aigrin écrit avec aisance , je ne sais pas ce qu' il en est de ...... vraiment de l' état de ses réflexions ."
+  },
+  {
+    "phrase": "ce être ... ce être plutôt un imprécation que un réflexion .",
+    "table": [
+      {
+        "word": "C'",
+        "lemma": "ce",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "est",
+        "lemma": "être",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "...",
+        "lemma": "...",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "ce",
+        "lemma": "ce",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "sont",
+        "lemma": "être",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "plutôt",
+        "lemma": "plutôt",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "des",
+        "lemma": "un",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "imprécations",
+        "lemma": "imprécation",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "que",
+        "lemma": "que",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "des",
+        "lemma": "un",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "réflexions",
+        "lemma": "réflexion",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": ".",
+        "lemma": ".",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      }
+    ],
+    "seg_phrase_info": {
+      "rule_info": [],
+      "seg_phrase": [
+        "ce",
+        "être",
+        "...",
+        "ce",
+        "être",
+        "plutôt",
+        "un",
+        "imprécation",
+        "que",
+        "un",
+        "réflexion",
+        "."
+      ],
+      "seg_phrase_original": [
+        "C'",
+        "est",
+        "...",
+        "ce",
+        "sont",
+        "plutôt",
+        "des",
+        "imprécations",
+        "que",
+        "des",
+        "réflexions",
+        "."
+      ],
+      "phrase_original": "C'est... ce sont plutôt des imprécations que des réflexions."
+    },
+    "replace": false,
+    "replace_phrase": ""
+  },
+  {
+    "phrase": "  moi je dire que de abord , ce qui être étrange , ce être que Hadopi - je aimer pas tellement le mot piraterie , mais dire téléchargement illicite ou illégal , être un concurrence déloyal pour le producteur comme moi - même .",
+    "table": [
+      {
+        "word": " ",
+        "lemma": " ",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "Moi",
+        "lemma": "moi",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "je",
+        "lemma": "je",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "dirais",
+        "lemma": "dire",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "que",
+        "lemma": "que",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "d'",
+        "lemma": "de",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "abord",
+        "lemma": "abord",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": ",",
+        "lemma": ",",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "ce",
+        "lemma": "ce",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "qui",
+        "lemma": "qui",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "est",
+        "lemma": "être",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "étrange",
+        "lemma": "étrange",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": ",",
+        "lemma": ",",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "c'",
+        "lemma": "ce",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "est",
+        "lemma": "être",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "que",
+        "lemma": "que",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "Hadopi",
+        "lemma": "Hadopi",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "-",
+        "lemma": "-",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "j'",
+        "lemma": "je",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "aime",
+        "lemma": "aimer",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "pas",
+        "lemma": "pas",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "tellement",
+        "lemma": "tellement",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "le",
+        "lemma": "le",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "mot",
+        "lemma": "mot",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "piraterie",
+        "lemma": "piraterie",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": ",",
+        "lemma": ",",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "mais",
+        "lemma": "mais",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "dirons",
+        "lemma": "dire",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "téléchargement",
+        "lemma": "téléchargement",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "illicite",
+        "lemma": "illicite",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "ou",
+        "lemma": "ou",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "illégal",
+        "lemma": "illégal",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": ",",
+        "lemma": ",",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "est",
+        "lemma": "être",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "une",
+        "lemma": "un",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "concurrence",
+        "lemma": "concurrence",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "déloyale",
+        "lemma": "déloyal",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "pour",
+        "lemma": "pour",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "les",
+        "lemma": "le",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "producteurs",
+        "lemma": "producteur",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "comme",
+        "lemma": "comme",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "moi",
+        "lemma": "moi",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "-",
+        "lemma": "-",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "même",
+        "lemma": "même",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": ".",
+        "lemma": ".",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      }
+    ],
+    "seg_phrase_info": {
+      "rule_info": [],
+      "seg_phrase": [
+        " ",
+        "moi",
+        "je",
+        "dire",
+        "que",
+        "de",
+        "abord",
+        ",",
+        "ce",
+        "qui",
+        "être",
+        "étrange",
+        ",",
+        "ce",
+        "être",
+        "que",
+        "Hadopi",
+        "-",
+        "je",
+        "aimer",
+        "pas",
+        "tellement",
+        "le",
+        "mot",
+        "piraterie",
+        ",",
+        "mais",
+        "dire",
+        "téléchargement",
+        "illicite",
+        "ou",
+        "illégal",
+        ",",
+        "être",
+        "un",
+        "concurrence",
+        "déloyal",
+        "pour",
+        "le",
+        "producteur",
+        "comme",
+        "moi",
+        "-",
+        "même",
+        "."
+      ],
+      "seg_phrase_original": [
+        " ",
+        "Moi",
+        "je",
+        "dirais",
+        "que",
+        "d'",
+        "abord",
+        ",",
+        "ce",
+        "qui",
+        "est",
+        "étrange",
+        ",",
+        "c'",
+        "est",
+        "que",
+        "Hadopi",
+        "-",
+        "j'",
+        "aime",
+        "pas",
+        "tellement",
+        "le",
+        "mot",
+        "piraterie",
+        ",",
+        "mais",
+        "dirons",
+        "téléchargement",
+        "illicite",
+        "ou",
+        "illégal",
+        ",",
+        "est",
+        "une",
+        "concurrence",
+        "déloyale",
+        "pour",
+        "les",
+        "producteurs",
+        "comme",
+        "moi",
+        "-",
+        "même",
+        "."
+      ],
+      "phrase_original": " Moije dirais que d'abord, ce qui est étrange, c'est que Hadopi- j'aime pas tellement le mot piraterie, mais dirons téléchargement illicite ou illégal, est une concurrence déloyale pour les producteurs comme moi-même."
+    },
+    "replace": false,
+    "replace_phrase": ""
+  },
+  {
+    "phrase": "je investir beaucoup de argent dans le production et il falloir quand même que je récupérer mon investissement , sinon je arrêter de produire , et si je arrêter de produire ...",
+    "table": [
+      {
+        "word": "J'",
+        "lemma": "je",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "investis",
+        "lemma": "investir",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "beaucoup d'",
+        "lemma": "beaucoup de",
+        "key": "EPL",
+        "temp_info": "",
+        "EPL_info": [
+          {
+            "type": "mot fuctionnel complexe",
+            "niveau": "A1",
+            "category": "DET",
+            "explication": "une grande quantité"
+          }
+        ],
+        "replace": "None",
+        "exercise": "Beaucoup de ces idées positives sont décrites dans le manuel."
+      },
+      {
+        "word": "argent",
+        "lemma": "argent",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "dans",
+        "lemma": "dans",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "la",
+        "lemma": "le",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "production",
+        "lemma": "production",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "et",
+        "lemma": "et",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "il",
+        "lemma": "il",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "faut",
+        "lemma": "falloir",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "quand même",
+        "lemma": "quand même",
+        "key": "EPL",
+        "temp_info": "",
+        "EPL_info": [
+          {
+            "type": "locution",
+            "niveau": "B1",
+            "category": "ADV",
+            "explication": "pour insister sur un aspect des choses qui paraît en contradiction avec un autre aspect."
+          }
+        ],
+        "replace": "None",
+        "exercise": "Il nous faudra quand même quitter cette région un jour."
+      },
+      {
+        "word": "que",
+        "lemma": "que",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "je",
+        "lemma": "je",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "récupère",
+        "lemma": "récupérer",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "mes",
+        "lemma": "mon",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "investissements",
+        "lemma": "investissement",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": ",",
+        "lemma": ",",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "sinon",
+        "lemma": "sinon",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "j'",
+        "lemma": "je",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "arrête",
+        "lemma": "arrêter",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "de",
+        "lemma": "de",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "produire",
+        "lemma": "produire",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": ",",
+        "lemma": ",",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "et",
+        "lemma": "et",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "si",
+        "lemma": "si",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "j'",
+        "lemma": "je",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "arrête",
+        "lemma": "arrêter",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "de",
+        "lemma": "de",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "produire",
+        "lemma": "produire",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "...",
+        "lemma": "...",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      }
+    ],
+    "seg_phrase_info": {
+      "rule_info": [
+        {
+          "expr": "beaucoup de",
+          "rule": "combine,beaucoup+de,beaucoup de,EPL\n"
+        },
+        {
+          "expr": "quand même",
+          "rule": "combine,quand+même,quand même,EPL\n"
+        }
+      ],
+      "seg_phrase": [
+        "je",
+        "investir",
+        "beaucoup de",
+        "argent",
+        "dans",
+        "le",
+        "production",
+        "et",
+        "il",
+        "falloir",
+        "quand même",
+        "que",
+        "je",
+        "récupérer",
+        "mon",
+        "investissement",
+        ",",
+        "sinon",
+        "je",
+        "arrêter",
+        "de",
+        "produire",
+        ",",
+        "et",
+        "si",
+        "je",
+        "arrêter",
+        "de",
+        "produire",
+        "..."
+      ],
+      "seg_phrase_original": [
+        "J'",
+        "investis",
+        "beaucoup d'",
+        "argent",
+        "dans",
+        "la",
+        "production",
+        "et",
+        "il",
+        "faut",
+        "quand même",
+        "que",
+        "je",
+        "récupère",
+        "mes",
+        "investissements",
+        ",",
+        "sinon",
+        "j'",
+        "arrête",
+        "de",
+        "produire",
+        ",",
+        "et",
+        "si",
+        "j'",
+        "arrête",
+        "de",
+        "produire",
+        "..."
+      ],
+      "phrase_original": "J'investis beaucoup d'argent dans la production et il faut quand même que je récupère mes investissements, sinon j'arrête de produire, et si j'arrête de produire..."
+    },
+    "replace": false,
+    "replace_phrase": ""
+  }
+]

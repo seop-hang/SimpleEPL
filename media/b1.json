@@ -1,0 +1,3820 @@
+[
+  {
+    "phrase": "un jour , le fils de roi donner un bal où il inviter tout le personne important .",
+    "table": [
+      {
+        "word": "Un jour",
+        "lemma": "un jour",
+        "key": "EPL",
+        "temp_info": "",
+        "EPL_info": [
+          {
+            "type": "locution",
+            "niveau": "C1",
+            "category": "ADV",
+            "explication": "À une date indéterminée dans le passé ; un certain jour"
+          }
+        ],
+        "replace": "None",
+        "exercise": "Mais un jour tu auras peut-être besoin de cette femme."
+      },
+      {
+        "word": ",",
+        "lemma": ",",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "le",
+        "lemma": "le",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "fils",
+        "lemma": "fils",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "du",
+        "lemma": "de",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "roi",
+        "lemma": "roi",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "donna",
+        "lemma": "donner",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "un",
+        "lemma": "un",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "bal",
+        "lemma": "bal",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "où",
+        "lemma": "où",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "il",
+        "lemma": "il",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "invita",
+        "lemma": "inviter",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "toutes",
+        "lemma": "tout",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "les",
+        "lemma": "le",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "personnes",
+        "lemma": "personne",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "importantes",
+        "lemma": "important",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": ".",
+        "lemma": ".",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      }
+    ],
+    "seg_phrase_info": {
+      "rule_info": [
+        {
+          "expr": "un jour",
+          "rule": "combine,un+jour,un jour,EPL\n"
+        }
+      ],
+      "seg_phrase": [
+        "un jour",
+        ",",
+        "le",
+        "fils",
+        "de",
+        "roi",
+        "donner",
+        "un",
+        "bal",
+        "où",
+        "il",
+        "inviter",
+        "tout",
+        "le",
+        "personne",
+        "important",
+        "."
+      ],
+      "seg_phrase_original": [
+        "Un jour",
+        ",",
+        "le",
+        "fils",
+        "du",
+        "roi",
+        "donna",
+        "un",
+        "bal",
+        "où",
+        "il",
+        "invita",
+        "toutes",
+        "les",
+        "personnes",
+        "importantes",
+        "."
+      ],
+      "phrase_original": "Un jour, le fils du roi donna un bal où il invita toutes les personnes importantes."
+    },
+    "replace": false,
+    "replace_phrase": ""
+  },
+  {
+    "phrase": "le deux soeur être inviter car lui prétendre appartenir à le haut société de pays .",
+    "table": [
+      {
+        "word": "Les",
+        "lemma": "le",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "deux",
+        "lemma": "deux",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "soeurs",
+        "lemma": "soeur",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "étaient",
+        "lemma": "être",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "invitées",
+        "lemma": "inviter",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "car",
+        "lemma": "car",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "elles",
+        "lemma": "lui",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "prétendaient",
+        "lemma": "prétendre",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "appartenir",
+        "lemma": "appartenir",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "à",
+        "lemma": "à",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "la",
+        "lemma": "le",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "haute",
+        "lemma": "haut",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "société",
+        "lemma": "société",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "du",
+        "lemma": "de",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "pays",
+        "lemma": "pays",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": ".",
+        "lemma": ".",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      }
+    ],
+    "seg_phrase_info": {
+      "rule_info": [],
+      "seg_phrase": [
+        "le",
+        "deux",
+        "soeur",
+        "être",
+        "inviter",
+        "car",
+        "lui",
+        "prétendre",
+        "appartenir",
+        "à",
+        "le",
+        "haut",
+        "société",
+        "de",
+        "pays",
+        "."
+      ],
+      "seg_phrase_original": [
+        "Les",
+        "deux",
+        "soeurs",
+        "étaient",
+        "invitées",
+        "car",
+        "elles",
+        "prétendaient",
+        "appartenir",
+        "à",
+        "la",
+        "haute",
+        "société",
+        "du",
+        "pays",
+        "."
+      ],
+      "phrase_original": "Les deux soeurs étaient invitées car elles prétendaient appartenir à la haute société du pays."
+    },
+    "replace": false,
+    "replace_phrase": ""
+  },
+  {
+    "phrase": "lui être enchanter et lui se occuper immédiatement à choisir le habit et le coiffure qui le mettre en valeur .",
+    "table": [
+      {
+        "word": "Elles",
+        "lemma": "lui",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "étaient",
+        "lemma": "être",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "enchantées",
+        "lemma": "enchanter",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "et",
+        "lemma": "et",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "elles",
+        "lemma": "lui",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "s'",
+        "lemma": "se",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "occupèrent",
+        "lemma": "occuper",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "immédiatement",
+        "lemma": "immédiatement",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "à",
+        "lemma": "à",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "choisir",
+        "lemma": "choisir",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "les",
+        "lemma": "le",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "habits",
+        "lemma": "habit",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "et",
+        "lemma": "et",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "les",
+        "lemma": "le",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "coiffures",
+        "lemma": "coiffure",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "qui",
+        "lemma": "qui",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "les",
+        "lemma": "le",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "mettraient en valeur",
+        "lemma": "mettre en valeur",
+        "key": "EPL",
+        "temp_info": "",
+        "EPL_info": [
+          {
+            "type": "locution",
+            "niveau": "A1",
+            "category": "V",
+            "explication": "Rendre visible les points forts de quelqu’un ou quelque chose ; présenter sous un jour favorable."
+          }
+        ],
+        "replace": "None",
+        "exercise": "Nous devons mettre en valeur les résultats prometteurs que nous obtenons. "
+      },
+      {
+        "word": ".",
+        "lemma": ".",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      }
+    ],
+    "seg_phrase_info": {
+      "rule_info": [
+        {
+          "expr": "mettre en valeur",
+          "rule": "combine,mettre+en+valeur,mettre en valeur,EPL\n"
+        }
+      ],
+      "seg_phrase": [
+        "lui",
+        "être",
+        "enchanter",
+        "et",
+        "lui",
+        "se",
+        "occuper",
+        "immédiatement",
+        "à",
+        "choisir",
+        "le",
+        "habit",
+        "et",
+        "le",
+        "coiffure",
+        "qui",
+        "le",
+        "mettre en valeur",
+        "."
+      ],
+      "seg_phrase_original": [
+        "Elles",
+        "étaient",
+        "enchantées",
+        "et",
+        "elles",
+        "s'",
+        "occupèrent",
+        "immédiatement",
+        "à",
+        "choisir",
+        "les",
+        "habits",
+        "et",
+        "les",
+        "coiffures",
+        "qui",
+        "les",
+        "mettraient en valeur",
+        "."
+      ],
+      "phrase_original": "Elles étaient enchantées et elles s'occupèrent immédiatement à choisir les habits et les coiffures qui les mettraient en valeur."
+    },
+    "replace": false,
+    "replace_phrase": ""
+  },
+  {
+    "phrase": "un travail de plus pour cendrillon car ce être lui qui blanchir et repasser le linge de son deux soeur : on ne parler que un vêtement que on aller porter .",
+    "table": [
+      {
+        "word": "Un",
+        "lemma": "un",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "travail",
+        "lemma": "travail",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "de plus",
+        "lemma": "de plus",
+        "key": "EPL",
+        "temp_info": "",
+        "EPL_info": [
+          {
+            "type": "locution",
+            "niveau": "C1",
+            "category": "ADV",
+            "explication": "En excédent."
+          }
+        ],
+        "replace": "None",
+        "exercise": "De plus, ces liens ne couvrent qu'une partie de la zone euro."
+      },
+      {
+        "word": "pour",
+        "lemma": "pour",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "Cendrillon",
+        "lemma": "cendrillon",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "car",
+        "lemma": "car",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "c'",
+        "lemma": "ce",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "était",
+        "lemma": "être",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "elle",
+        "lemma": "lui",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "qui",
+        "lemma": "qui",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "blanchissait",
+        "lemma": "blanchir",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "et",
+        "lemma": "et",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "repassait",
+        "lemma": "repasser",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "le",
+        "lemma": "le",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "linge",
+        "lemma": "linge",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "de",
+        "lemma": "de",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "ses",
+        "lemma": "son",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "deux",
+        "lemma": "deux",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "soeurs",
+        "lemma": "soeur",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": ":",
+        "lemma": ":",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "on",
+        "lemma": "on",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "ne",
+        "lemma": "ne",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "parlait",
+        "lemma": "parler",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "que",
+        "lemma": "que",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "des",
+        "lemma": "un",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "vêtements",
+        "lemma": "vêtement",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "qu'",
+        "lemma": "que",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "on",
+        "lemma": "on",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "allait",
+        "lemma": "aller",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "porter",
+        "lemma": "porter",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": ".",
+        "lemma": ".",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      }
+    ],
+    "seg_phrase_info": {
+      "rule_info": [
+        {
+          "expr": "de plus",
+          "rule": "combine,de+plus,de plus,EPL\n"
+        }
+      ],
+      "seg_phrase": [
+        "un",
+        "travail",
+        "de plus",
+        "pour",
+        "cendrillon",
+        "car",
+        "ce",
+        "être",
+        "lui",
+        "qui",
+        "blanchir",
+        "et",
+        "repasser",
+        "le",
+        "linge",
+        "de",
+        "son",
+        "deux",
+        "soeur",
+        ":",
+        "on",
+        "ne",
+        "parler",
+        "que",
+        "un",
+        "vêtement",
+        "que",
+        "on",
+        "aller",
+        "porter",
+        "."
+      ],
+      "seg_phrase_original": [
+        "Un",
+        "travail",
+        "de plus",
+        "pour",
+        "Cendrillon",
+        "car",
+        "c'",
+        "était",
+        "elle",
+        "qui",
+        "blanchissait",
+        "et",
+        "repassait",
+        "le",
+        "linge",
+        "de",
+        "ses",
+        "deux",
+        "soeurs",
+        ":",
+        "on",
+        "ne",
+        "parlait",
+        "que",
+        "des",
+        "vêtements",
+        "qu'",
+        "on",
+        "allait",
+        "porter",
+        "."
+      ],
+      "phrase_original": "Un travail de plus pour Cendrillon car c'était elle qui blanchissait et repassait le linge de ses deux soeurs : on ne parlait que des vêtements qu'on allait porter."
+    },
+    "replace": false,
+    "replace_phrase": ""
+  },
+  {
+    "phrase": "moi , dire le aîné , je mettre mon ensemble de velours rouge avec un grand col de vrai dentelle !",
+    "table": [
+      {
+        "word": "Moi",
+        "lemma": "moi",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": ",",
+        "lemma": ",",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "disait",
+        "lemma": "dire",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "l'",
+        "lemma": "le",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "aînée",
+        "lemma": "aîné",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": ",",
+        "lemma": ",",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "je",
+        "lemma": "je",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "mettrai",
+        "lemma": "mettre",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "mon",
+        "lemma": "mon",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "ensemble",
+        "lemma": "ensemble",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "de",
+        "lemma": "de",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "velours",
+        "lemma": "velours",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "rouge",
+        "lemma": "rouge",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "avec",
+        "lemma": "avec",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "un",
+        "lemma": "un",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "grand",
+        "lemma": "grand",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "col",
+        "lemma": "col",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "de",
+        "lemma": "de",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "vraie",
+        "lemma": "vrai",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "dentelle",
+        "lemma": "dentelle",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "!",
+        "lemma": "!",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      }
+    ],
+    "seg_phrase_info": {
+      "rule_info": [],
+      "seg_phrase": [
+        "moi",
+        ",",
+        "dire",
+        "le",
+        "aîné",
+        ",",
+        "je",
+        "mettre",
+        "mon",
+        "ensemble",
+        "de",
+        "velours",
+        "rouge",
+        "avec",
+        "un",
+        "grand",
+        "col",
+        "de",
+        "vrai",
+        "dentelle",
+        "!"
+      ],
+      "seg_phrase_original": [
+        "Moi",
+        ",",
+        "disait",
+        "l'",
+        "aînée",
+        ",",
+        "je",
+        "mettrai",
+        "mon",
+        "ensemble",
+        "de",
+        "velours",
+        "rouge",
+        "avec",
+        "un",
+        "grand",
+        "col",
+        "de",
+        "vraie",
+        "dentelle",
+        "!"
+      ],
+      "phrase_original": "Moi, disait l'aînée, je mettrai mon ensemble de velours rouge avec un grand col de vraie dentelle !"
+    },
+    "replace": false,
+    "replace_phrase": ""
+  },
+  {
+    "phrase": "moi , dire le second , je ne avoir que mon jupe ordinaire mais , par contre , je mettre mon manteau à fleur de or et mon collier de diamant , qui ne être pas mal de tout !",
+    "table": [
+      {
+        "word": "Moi",
+        "lemma": "moi",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": ",",
+        "lemma": ",",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "disait",
+        "lemma": "dire",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "la",
+        "lemma": "le",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "seconde",
+        "lemma": "second",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": ",",
+        "lemma": ",",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "je",
+        "lemma": "je",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "n'",
+        "lemma": "ne",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "aurai",
+        "lemma": "avoir",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "que",
+        "lemma": "que",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "ma",
+        "lemma": "mon",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "jupe",
+        "lemma": "jupe",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "ordinaire",
+        "lemma": "ordinaire",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "mais",
+        "lemma": "mais",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": ",",
+        "lemma": ",",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "par contre",
+        "lemma": "par contre",
+        "key": "EPL",
+        "temp_info": "",
+        "EPL_info": [
+          {
+            "type": "locution",
+            "niveau": "B1",
+            "category": "ADV",
+            "explication": "En revanche"
+          }
+        ],
+        "replace": "None",
+        "exercise": "Par contre, nous savons tous que cet idéal n'est pas facile à atteindre."
+      },
+      {
+        "word": ",",
+        "lemma": ",",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "je",
+        "lemma": "je",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "mettrai",
+        "lemma": "mettre",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "mon",
+        "lemma": "mon",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "manteau",
+        "lemma": "manteau",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "à",
+        "lemma": "à",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "fleurs",
+        "lemma": "fleur",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "d'",
+        "lemma": "de",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "or",
+        "lemma": "or",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "et",
+        "lemma": "et",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "mon",
+        "lemma": "mon",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "collier",
+        "lemma": "collier",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "de",
+        "lemma": "de",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "diamants",
+        "lemma": "diamant",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": ",",
+        "lemma": ",",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "qui",
+        "lemma": "qui",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "n'",
+        "lemma": "ne",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "est",
+        "lemma": "être",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "pas",
+        "lemma": "pas",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "mal",
+        "lemma": "mal",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "du",
+        "lemma": "de",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "tout",
+        "lemma": "tout",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "!",
+        "lemma": "!",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      }
+    ],
+    "seg_phrase_info": {
+      "rule_info": [
+        {
+          "expr": "par contre",
+          "rule": "combine,par+contre,par contre,EPL\n"
+        }
+      ],
+      "seg_phrase": [
+        "moi",
+        ",",
+        "dire",
+        "le",
+        "second",
+        ",",
+        "je",
+        "ne",
+        "avoir",
+        "que",
+        "mon",
+        "jupe",
+        "ordinaire",
+        "mais",
+        ",",
+        "par contre",
+        ",",
+        "je",
+        "mettre",
+        "mon",
+        "manteau",
+        "à",
+        "fleur",
+        "de",
+        "or",
+        "et",
+        "mon",
+        "collier",
+        "de",
+        "diamant",
+        ",",
+        "qui",
+        "ne",
+        "être",
+        "pas",
+        "mal",
+        "de",
+        "tout",
+        "!"
+      ],
+      "seg_phrase_original": [
+        "Moi",
+        ",",
+        "disait",
+        "la",
+        "seconde",
+        ",",
+        "je",
+        "n'",
+        "aurai",
+        "que",
+        "ma",
+        "jupe",
+        "ordinaire",
+        "mais",
+        ",",
+        "par contre",
+        ",",
+        "je",
+        "mettrai",
+        "mon",
+        "manteau",
+        "à",
+        "fleurs",
+        "d'",
+        "or",
+        "et",
+        "mon",
+        "collier",
+        "de",
+        "diamants",
+        ",",
+        "qui",
+        "n'",
+        "est",
+        "pas",
+        "mal",
+        "du",
+        "tout",
+        "!"
+      ],
+      "phrase_original": "Moi, disait la seconde, je n'aurai que ma jupe ordinaire mais, par contre,je mettrai mon manteau à fleurs d'or et mon collier de diamants, qui n'est pas mal du tout !"
+    },
+    "replace": false,
+    "replace_phrase": ""
+  },
+  {
+    "phrase": "on chercher un coiffeuse pour préparer et arranger le cheveu de ce demoiselle et on faire acheter tout le produit de beauté que il son falloir .",
+    "table": [
+      {
+        "word": "On",
+        "lemma": "on",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "cherchait",
+        "lemma": "chercher",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "une",
+        "lemma": "un",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "coiffeuse",
+        "lemma": "coiffeuse",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "pour",
+        "lemma": "pour",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "préparer",
+        "lemma": "préparer",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "et",
+        "lemma": "et",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "arranger",
+        "lemma": "arranger",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "les",
+        "lemma": "le",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "cheveux",
+        "lemma": "cheveu",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "de",
+        "lemma": "de",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "ces",
+        "lemma": "ce",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "demoiselles",
+        "lemma": "demoiselle",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "et",
+        "lemma": "et",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "on",
+        "lemma": "on",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "fit",
+        "lemma": "faire",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "acheter",
+        "lemma": "acheter",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "tous",
+        "lemma": "tout",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "les",
+        "lemma": "le",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "produits de beauté",
+        "lemma": "produit de beauté",
+        "key": "EPL",
+        "temp_info": "",
+        "EPL_info": [
+          {
+            "type": "locution",
+            "niveau": "B1",
+            "category": "N",
+            "explication": "Substance ou préparation destinée à embellir l’aspect ou de parfumer des parties superficielles du corps humain."
+          }
+        ],
+        "replace": "None",
+        "exercise": "Le miel était déjà utilisé par Cléopâtre comme produit de beauté. "
+      },
+      {
+        "word": "qu'",
+        "lemma": "que",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "il",
+        "lemma": "il",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "leur",
+        "lemma": "son",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "fallait",
+        "lemma": "falloir",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": ".",
+        "lemma": ".",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      }
+    ],
+    "seg_phrase_info": {
+      "rule_info": [
+        {
+          "expr": "produit de beauté",
+          "rule": "combine,produit+de+beauté,produit de beauté,EPL\n"
+        }
+      ],
+      "seg_phrase": [
+        "on",
+        "chercher",
+        "un",
+        "coiffeuse",
+        "pour",
+        "préparer",
+        "et",
+        "arranger",
+        "le",
+        "cheveu",
+        "de",
+        "ce",
+        "demoiselle",
+        "et",
+        "on",
+        "faire",
+        "acheter",
+        "tout",
+        "le",
+        "produit de beauté",
+        "que",
+        "il",
+        "son",
+        "falloir",
+        "."
+      ],
+      "seg_phrase_original": [
+        "On",
+        "cherchait",
+        "une",
+        "coiffeuse",
+        "pour",
+        "préparer",
+        "et",
+        "arranger",
+        "les",
+        "cheveux",
+        "de",
+        "ces",
+        "demoiselles",
+        "et",
+        "on",
+        "fit",
+        "acheter",
+        "tous",
+        "les",
+        "produits de beauté",
+        "qu'",
+        "il",
+        "leur",
+        "fallait",
+        "."
+      ],
+      "phrase_original": "On cherchait une coiffeuse pour préparer et arranger les cheveux de ces demoiselles et on fit acheter tous les produits de beauté qu'il leur fallait."
+    },
+    "replace": false,
+    "replace_phrase": ""
+  },
+  {
+    "phrase": "lui appeler cendrillon pour luire demander son avis car lui avoir bon goût .",
+    "table": [
+      {
+        "word": "Elles",
+        "lemma": "lui",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "appelèrent",
+        "lemma": "appeler",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "Cendrillon",
+        "lemma": "cendrillon",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "pour",
+        "lemma": "pour",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "lui",
+        "lemma": "luire",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "demander",
+        "lemma": "demander",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "son",
+        "lemma": "son",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "avis",
+        "lemma": "avis",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "car",
+        "lemma": "car",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "elle",
+        "lemma": "lui",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "avait",
+        "lemma": "avoir",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "bon goût",
+        "lemma": "bon goût",
+        "key": "EPL",
+        "temp_info": "",
+        "EPL_info": [
+          {
+            "type": "locution",
+            "niveau": "B1",
+            "category": "N",
+            "explication": "(Sens figuré) Élégance ; raffinement"
+          }
+        ],
+        "replace": "None",
+        "exercise": "Et comme d'habitude, c'est fait dans le respect du bon goût!"
+      },
+      {
+        "word": ".",
+        "lemma": ".",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      }
+    ],
+    "seg_phrase_info": {
+      "rule_info": [
+        {
+          "expr": "bon goût",
+          "rule": "combine,bon+goût,bon goût,EPL\n"
+        }
+      ],
+      "seg_phrase": [
+        "lui",
+        "appeler",
+        "cendrillon",
+        "pour",
+        "luire",
+        "demander",
+        "son",
+        "avis",
+        "car",
+        "lui",
+        "avoir",
+        "bon goût",
+        "."
+      ],
+      "seg_phrase_original": [
+        "Elles",
+        "appelèrent",
+        "Cendrillon",
+        "pour",
+        "lui",
+        "demander",
+        "son",
+        "avis",
+        "car",
+        "elle",
+        "avait",
+        "bon goût",
+        "."
+      ],
+      "phrase_original": "Elles appelèrent Cendrillon pour lui demander son avis car elle avait bon goût."
+    },
+    "replace": false,
+    "replace_phrase": ""
+  },
+  {
+    "phrase": "Cendrillon le conseilla le mieux de monde et lui proposer même de le coiffer , ce que lui accepter .",
+    "table": [
+      {
+        "word": "Cendrillon",
+        "lemma": "Cendrillon",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "les",
+        "lemma": "le",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "conseilla",
+        "lemma": "conseilla",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "le",
+        "lemma": "le",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "mieux",
+        "lemma": "mieux",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "du",
+        "lemma": "de",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "monde",
+        "lemma": "monde",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "et",
+        "lemma": "et",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "elle",
+        "lemma": "lui",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "proposa",
+        "lemma": "proposer",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "même",
+        "lemma": "même",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "de",
+        "lemma": "de",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "les",
+        "lemma": "le",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "coiffer",
+        "lemma": "coiffer",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": ",",
+        "lemma": ",",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "ce",
+        "lemma": "ce",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "qu'",
+        "lemma": "que",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "elles",
+        "lemma": "lui",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "acceptèrent",
+        "lemma": "accepter",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": ".",
+        "lemma": ".",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      }
+    ],
+    "seg_phrase_info": {
+      "rule_info": [],
+      "seg_phrase": [
+        "Cendrillon",
+        "le",
+        "conseilla",
+        "le",
+        "mieux",
+        "de",
+        "monde",
+        "et",
+        "lui",
+        "proposer",
+        "même",
+        "de",
+        "le",
+        "coiffer",
+        ",",
+        "ce",
+        "que",
+        "lui",
+        "accepter",
+        "."
+      ],
+      "seg_phrase_original": [
+        "Cendrillon",
+        "les",
+        "conseilla",
+        "le",
+        "mieux",
+        "du",
+        "monde",
+        "et",
+        "elle",
+        "proposa",
+        "même",
+        "de",
+        "les",
+        "coiffer",
+        ",",
+        "ce",
+        "qu'",
+        "elles",
+        "acceptèrent",
+        "."
+      ],
+      "phrase_original": "Cendrillon les conseilla le mieux du monde et elle proposa même de les coiffer, ce qu'elles acceptèrent."
+    },
+    "replace": false,
+    "replace_phrase": ""
+  },
+  {
+    "phrase": "pendant que lui le coiffait , lui luire dire : Cendrillon , être -ce que tu aimer aller au bal ?",
+    "table": [
+      {
+        "word": "Pendant qu'",
+        "lemma": "pendant que",
+        "key": "EPL",
+        "temp_info": "",
+        "EPL_info": [
+          {
+            "type": "mot fuctionnel complexe",
+            "niveau": "A2",
+            "category": "CONJS",
+            "explication": "Exprime la concomitance, et signifie « partiellement ou totalement en même temps que »."
+          }
+        ],
+        "replace": "None",
+        "exercise": "Ils occupent le terrain pendant que les autres sont en proie aux doutes."
+      },
+      {
+        "word": "elle",
+        "lemma": "lui",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "les",
+        "lemma": "le",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "coiffait",
+        "lemma": "coiffait",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": ",",
+        "lemma": ",",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "elles",
+        "lemma": "lui",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "lui",
+        "lemma": "luire",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "disaient",
+        "lemma": "dire",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": ":",
+        "lemma": ":",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "Cendrillon",
+        "lemma": "Cendrillon",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": ",",
+        "lemma": ",",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "est",
+        "lemma": "être",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "-ce",
+        "lemma": "-ce",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "que",
+        "lemma": "que",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "tu",
+        "lemma": "tu",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "aimerais",
+        "lemma": "aimer",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "aller",
+        "lemma": "aller",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "au",
+        "lemma": "au",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "bal",
+        "lemma": "bal",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "?",
+        "lemma": "?",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      }
+    ],
+    "seg_phrase_info": {
+      "rule_info": [
+        {
+          "expr": "pendant que",
+          "rule": "combine,pendant+que,pendant que,EPL\n"
+        }
+      ],
+      "seg_phrase": [
+        "pendant que",
+        "lui",
+        "le",
+        "coiffait",
+        ",",
+        "lui",
+        "luire",
+        "dire",
+        ":",
+        "Cendrillon",
+        ",",
+        "être",
+        "-ce",
+        "que",
+        "tu",
+        "aimer",
+        "aller",
+        "au",
+        "bal",
+        "?"
+      ],
+      "seg_phrase_original": [
+        "Pendant qu'",
+        "elle",
+        "les",
+        "coiffait",
+        ",",
+        "elles",
+        "lui",
+        "disaient",
+        ":",
+        "Cendrillon",
+        ",",
+        "est",
+        "-ce",
+        "que",
+        "tu",
+        "aimerais",
+        "aller",
+        "au",
+        "bal",
+        "?"
+      ],
+      "phrase_original": "Pendant qu'elle les coiffait, elles lui disaient :Cendrillon, est-ce que tu aimerais aller au bal ?"
+    },
+    "replace": false,
+    "replace_phrase": ""
+  },
+  {
+    "phrase": "ah i mademoiselle , vous vous moquer de moi , ce ne être pas mon place .",
+    "table": [
+      {
+        "word": "Ah",
+        "lemma": "ah",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "I",
+        "lemma": "i",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "Mesdemoiselles",
+        "lemma": "mademoiselle",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": ",",
+        "lemma": ",",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "vous",
+        "lemma": "vous",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "vous",
+        "lemma": "vous",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "moquez",
+        "lemma": "moquer",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "de",
+        "lemma": "de",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "moi",
+        "lemma": "moi",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": ",",
+        "lemma": ",",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "ce",
+        "lemma": "ce",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "n'",
+        "lemma": "ne",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "est",
+        "lemma": "être",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "pas",
+        "lemma": "pas",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "ma",
+        "lemma": "mon",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "place",
+        "lemma": "place",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": ".",
+        "lemma": ".",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      }
+    ],
+    "seg_phrase_info": {
+      "rule_info": [],
+      "seg_phrase": [
+        "ah",
+        "i",
+        "mademoiselle",
+        ",",
+        "vous",
+        "vous",
+        "moquer",
+        "de",
+        "moi",
+        ",",
+        "ce",
+        "ne",
+        "être",
+        "pas",
+        "mon",
+        "place",
+        "."
+      ],
+      "seg_phrase_original": [
+        "Ah",
+        "I",
+        "Mesdemoiselles",
+        ",",
+        "vous",
+        "vous",
+        "moquez",
+        "de",
+        "moi",
+        ",",
+        "ce",
+        "n'",
+        "est",
+        "pas",
+        "ma",
+        "place",
+        "."
+      ],
+      "phrase_original": "Ah IMesdemoiselles, vous vous moquez de moi, ce n'est pas ma place."
+    },
+    "replace": false,
+    "replace_phrase": ""
+  },
+  {
+    "phrase": "tu avoir raison , on rire bien si on voir un servant aller au bal .",
+    "table": [
+      {
+        "word": "Tu",
+        "lemma": "tu",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "as raison",
+        "lemma": "avoir raison",
+        "key": "EPL",
+        "temp_info": "",
+        "EPL_info": [
+          {
+            "type": "locution",
+            "niveau": "A1",
+            "category": "V",
+            "explication": "Dire, penser quelque chose qui est vrai, ne pas se tromper ou commettre d'erreur."
+          }
+        ],
+        "replace": "None",
+        "exercise": "Tu as raison Edith, quand on a faim, pourquoi le cacher? "
+      },
+      {
+        "word": ",",
+        "lemma": ",",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "on",
+        "lemma": "on",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "rirait",
+        "lemma": "rire",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "bien",
+        "lemma": "bien",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "si",
+        "lemma": "si",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "on",
+        "lemma": "on",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "voyait",
+        "lemma": "voir",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "une",
+        "lemma": "un",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "servante",
+        "lemma": "servant",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "aller",
+        "lemma": "aller",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "au",
+        "lemma": "au",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "bal",
+        "lemma": "bal",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": ".",
+        "lemma": ".",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      }
+    ],
+    "seg_phrase_info": {
+      "rule_info": [
+        {
+          "expr": "avoir raison",
+          "rule": "combine,avoir+raison,avoir raison,EPL\n"
+        }
+      ],
+      "seg_phrase": [
+        "tu",
+        "avoir raison",
+        ",",
+        "on",
+        "rire",
+        "bien",
+        "si",
+        "on",
+        "voir",
+        "un",
+        "servant",
+        "aller",
+        "au",
+        "bal",
+        "."
+      ],
+      "seg_phrase_original": [
+        "Tu",
+        "as raison",
+        ",",
+        "on",
+        "rirait",
+        "bien",
+        "si",
+        "on",
+        "voyait",
+        "une",
+        "servante",
+        "aller",
+        "au",
+        "bal",
+        "."
+      ],
+      "phrase_original": "Tu as raison, on rirait bien si on voyait une servante aller au bal."
+    },
+    "replace": false,
+    "replace_phrase": ""
+  },
+  {
+    "phrase": "un autre que Cendrillon le avoir coiffer de travers ;",
+    "table": [
+      {
+        "word": "Une",
+        "lemma": "un",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "autre",
+        "lemma": "autre",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "que",
+        "lemma": "que",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "Cendrillon",
+        "lemma": "Cendrillon",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "les",
+        "lemma": "le",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "aurait",
+        "lemma": "avoir",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "coiffées",
+        "lemma": "coiffer",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "de travers",
+        "lemma": "de travers",
+        "key": "EPL",
+        "temp_info": "",
+        "EPL_info": [
+          {
+            "type": "locution",
+            "niveau": "B1",
+            "category": "ADV",
+            "explication": "Qui dévie vers un côté"
+          }
+        ],
+        "replace": "None",
+        "exercise": "Il a les jambes de travers."
+      },
+      {
+        "word": ";",
+        "lemma": ";",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      }
+    ],
+    "seg_phrase_info": {
+      "rule_info": [
+        {
+          "expr": "de travers",
+          "rule": "combine,de+travers,de travers,EPL\n"
+        }
+      ],
+      "seg_phrase": [
+        "un",
+        "autre",
+        "que",
+        "Cendrillon",
+        "le",
+        "avoir",
+        "coiffer",
+        "de travers",
+        ";"
+      ],
+      "seg_phrase_original": [
+        "Une",
+        "autre",
+        "que",
+        "Cendrillon",
+        "les",
+        "aurait",
+        "coiffées",
+        "de travers",
+        ";"
+      ],
+      "phrase_original": "Une autre que Cendrillon les aurait coifféesde travers ;"
+    },
+    "replace": false,
+    "replace_phrase": ""
+  },
+  {
+    "phrase": "mais lui être bon et lui le coiffer parfaitement bien .",
+    "table": [
+      {
+        "word": "mais",
+        "lemma": "mais",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "elle",
+        "lemma": "lui",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "était",
+        "lemma": "être",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "bonne",
+        "lemma": "bon",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "et",
+        "lemma": "et",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "elle",
+        "lemma": "lui",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "les",
+        "lemma": "le",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "coiffa",
+        "lemma": "coiffer",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "parfaitement",
+        "lemma": "parfaitement",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "bien",
+        "lemma": "bien",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": ".",
+        "lemma": ".",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      }
+    ],
+    "seg_phrase_info": {
+      "rule_info": [],
+      "seg_phrase": [
+        "mais",
+        "lui",
+        "être",
+        "bon",
+        "et",
+        "lui",
+        "le",
+        "coiffer",
+        "parfaitement",
+        "bien",
+        "."
+      ],
+      "seg_phrase_original": [
+        "mais",
+        "elle",
+        "était",
+        "bonne",
+        "et",
+        "elle",
+        "les",
+        "coiffa",
+        "parfaitement",
+        "bien",
+        "."
+      ],
+      "phrase_original": "mais elle était bonne et elle les coiffa parfaitement bien."
+    },
+    "replace": false,
+    "replace_phrase": ""
+  },
+  {
+    "phrase": "lui rester presque deux jour sans manger tellement lui être heureuser .",
+    "table": [
+      {
+        "word": "Elles",
+        "lemma": "lui",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "restèrent",
+        "lemma": "rester",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "presque",
+        "lemma": "presque",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "deux",
+        "lemma": "deux",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "jours",
+        "lemma": "jour",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "sans",
+        "lemma": "sans",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "manger",
+        "lemma": "manger",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "tellement",
+        "lemma": "tellement",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "elles",
+        "lemma": "lui",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "étaient",
+        "lemma": "être",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "heureuses",
+        "lemma": "heureuser",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": ".",
+        "lemma": ".",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      }
+    ],
+    "seg_phrase_info": {
+      "rule_info": [],
+      "seg_phrase": [
+        "lui",
+        "rester",
+        "presque",
+        "deux",
+        "jour",
+        "sans",
+        "manger",
+        "tellement",
+        "lui",
+        "être",
+        "heureuser",
+        "."
+      ],
+      "seg_phrase_original": [
+        "Elles",
+        "restèrent",
+        "presque",
+        "deux",
+        "jours",
+        "sans",
+        "manger",
+        "tellement",
+        "elles",
+        "étaient",
+        "heureuses",
+        "."
+      ],
+      "phrase_original": "Elles restèrent presque deux jours sans manger tellement elles étaient heureuses."
+    },
+    "replace": false,
+    "replace_phrase": ""
+  },
+  {
+    "phrase": "lui casser plusieurs ceinture à force de le serrer pour avoir le taille plus fin et lui être toujours devant son miroir .",
+    "table": [
+      {
+        "word": "Elles",
+        "lemma": "lui",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "cassèrent",
+        "lemma": "casser",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "plusieurs",
+        "lemma": "plusieurs",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "ceintures",
+        "lemma": "ceinture",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "à force de",
+        "lemma": "à force de",
+        "key": "EPL",
+        "temp_info": "",
+        "EPL_info": [
+          {
+            "type": "mot fuctionnel complexe",
+            "niveau": "B1",
+            "category": "PREP",
+            "explication": "Par beaucoup de."
+          }
+        ],
+        "replace": "None",
+        "exercise": "A force de la répéter cette phrase commence à avoir une consonance rituelle."
+      },
+      {
+        "word": "les",
+        "lemma": "le",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "serrer",
+        "lemma": "serrer",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "pour",
+        "lemma": "pour",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "avoir",
+        "lemma": "avoir",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "la",
+        "lemma": "le",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "taille",
+        "lemma": "taille",
+        "key": "N",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "plus",
+        "lemma": "plus",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "fine",
+        "lemma": "fin",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "et",
+        "lemma": "et",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "elles",
+        "lemma": "lui",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "étaient",
+        "lemma": "être",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "toujours",
+        "lemma": "toujours",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "devant",
+        "lemma": "devant",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "leur",
+        "lemma": "son",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "miroir",
+        "lemma": "miroir",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": ".",
+        "lemma": ".",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      }
+    ],
+    "seg_phrase_info": {
+      "rule_info": [
+        {
+          "expr": "à force de",
+          "rule": "combine,à+force+de,à force de,EPL\n"
+        }
+      ],
+      "seg_phrase": [
+        "lui",
+        "casser",
+        "plusieurs",
+        "ceinture",
+        "à force de",
+        "le",
+        "serrer",
+        "pour",
+        "avoir",
+        "le",
+        "taille",
+        "plus",
+        "fin",
+        "et",
+        "lui",
+        "être",
+        "toujours",
+        "devant",
+        "son",
+        "miroir",
+        "."
+      ],
+      "seg_phrase_original": [
+        "Elles",
+        "cassèrent",
+        "plusieurs",
+        "ceintures",
+        "à force de",
+        "les",
+        "serrer",
+        "pour",
+        "avoir",
+        "la",
+        "taille",
+        "plus",
+        "fine",
+        "et",
+        "elles",
+        "étaient",
+        "toujours",
+        "devant",
+        "leur",
+        "miroir",
+        "."
+      ],
+      "phrase_original": "Elles cassèrent plusieurs ceintures à force de les serrer pour avoir la taille plus fine et elles étaient toujours devant leur miroir."
+    },
+    "replace": false,
+    "replace_phrase": ""
+  },
+  {
+    "phrase": "enfin , le heureux jour arriver .",
+    "table": [
+      {
+        "word": "Enfin",
+        "lemma": "enfin",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": ",",
+        "lemma": ",",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "l'",
+        "lemma": "le",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "heureux",
+        "lemma": "heureux",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "jour",
+        "lemma": "jour",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "arriva",
+        "lemma": "arriver",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": ".",
+        "lemma": ".",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      }
+    ],
+    "seg_phrase_info": {
+      "rule_info": [],
+      "seg_phrase": [
+        "enfin",
+        ",",
+        "le",
+        "heureux",
+        "jour",
+        "arriver",
+        "."
+      ],
+      "seg_phrase_original": [
+        "Enfin",
+        ",",
+        "l'",
+        "heureux",
+        "jour",
+        "arriva",
+        "."
+      ],
+      "phrase_original": "Enfin, l'heureux jour arriva."
+    },
+    "replace": false,
+    "replace_phrase": ""
+  }
+]

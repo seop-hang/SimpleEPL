@@ -1,0 +1,1908 @@
+[
+  {
+    "phrase": "- Mademoiselle ? \n",
+    "table": [
+      {
+        "word": "-",
+        "lemma": "-",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "Mademoiselle",
+        "lemma": "Mademoiselle",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "?",
+        "lemma": "?",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "\n",
+        "lemma": "\n",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      }
+    ],
+    "seg_phrase_info": {
+      "rule_info": [],
+      "seg_phrase": [
+        "-",
+        "Mademoiselle",
+        "?",
+        "\n"
+      ],
+      "seg_phrase_original": [
+        "-",
+        "Mademoiselle",
+        "?",
+        "\n"
+      ],
+      "phrase_original": "- Mademoiselle ?\n"
+    },
+    "replace": false,
+    "replace_phrase": ""
+  },
+  {
+    "phrase": "- bonjour Monsieur .",
+    "table": [
+      {
+        "word": "-",
+        "lemma": "-",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "Bonjour",
+        "lemma": "bonjour",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "monsieur",
+        "lemma": "Monsieur",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": ".",
+        "lemma": ".",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      }
+    ],
+    "seg_phrase_info": {
+      "rule_info": [],
+      "seg_phrase": [
+        "-",
+        "bonjour",
+        "Monsieur",
+        "."
+      ],
+      "seg_phrase_original": [
+        "-",
+        "Bonjour",
+        "monsieur",
+        "."
+      ],
+      "phrase_original": "- Bonjour monsieur."
+    },
+    "replace": false,
+    "replace_phrase": ""
+  },
+  {
+    "phrase": "ce être pour un inscription .",
+    "table": [
+      {
+        "word": "C'",
+        "lemma": "ce",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "est",
+        "lemma": "être",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "pour",
+        "lemma": "pour",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "une",
+        "lemma": "un",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "inscription",
+        "lemma": "inscription",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": ".",
+        "lemma": ".",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      }
+    ],
+    "seg_phrase_info": {
+      "rule_info": [],
+      "seg_phrase": [
+        "ce",
+        "être",
+        "pour",
+        "un",
+        "inscription",
+        "."
+      ],
+      "seg_phrase_original": [
+        "C'",
+        "est",
+        "pour",
+        "une",
+        "inscription",
+        "."
+      ],
+      "phrase_original": "C'est pour une inscription."
+    },
+    "replace": false,
+    "replace_phrase": ""
+  },
+  {
+    "phrase": "voilà mon passeport , un photo et mon formulaire de inscription . \n",
+    "table": [
+      {
+        "word": "Voilà",
+        "lemma": "voilà",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "mon",
+        "lemma": "mon",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "passeport",
+        "lemma": "passeport",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": ",",
+        "lemma": ",",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "une",
+        "lemma": "un",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "photo",
+        "lemma": "photo",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "et",
+        "lemma": "et",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "mon",
+        "lemma": "mon",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "formulaire d' inscription",
+        "lemma": "formulaire de inscription",
+        "key": "EPL",
+        "temp_info": "",
+        "EPL_info": [
+          {
+            "type": "locution",
+            "niveau": "A1",
+            "category": "N",
+            "explication": "Formulaire comportant des questions relatives à des renseignements personnels sur un individu, qui veut souscrire à un programme, une activité, etc"
+          }
+        ],
+        "replace": "None",
+        "exercise": "Faites-nous part de votre intérêt en remplissant le formulaire d'inscription."
+      },
+      {
+        "word": ".",
+        "lemma": ".",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "\n",
+        "lemma": "\n",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      }
+    ],
+    "seg_phrase_info": {
+      "rule_info": [
+        {
+          "expr": "formulaire de inscription",
+          "rule": "combine,formulaire+de+inscription,formulaire de inscription,EPL\n"
+        }
+      ],
+      "seg_phrase": [
+        "voilà",
+        "mon",
+        "passeport",
+        ",",
+        "un",
+        "photo",
+        "et",
+        "mon",
+        "formulaire de inscription",
+        ".",
+        "\n"
+      ],
+      "seg_phrase_original": [
+        "Voilà",
+        "mon",
+        "passeport",
+        ",",
+        "une",
+        "photo",
+        "et",
+        "mon",
+        "formulaire d' inscription",
+        ".",
+        "\n"
+      ],
+      "phrase_original": "Voilà mon passeport, une photo et mon formulaire d'inscription.\n"
+    },
+    "replace": false,
+    "replace_phrase": ""
+  },
+  {
+    "phrase": "- bien , merci ...",
+    "table": [
+      {
+        "word": "-",
+        "lemma": "-",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "Bien",
+        "lemma": "bien",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": ",",
+        "lemma": ",",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "merci",
+        "lemma": "merci",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "...",
+        "lemma": "...",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      }
+    ],
+    "seg_phrase_info": {
+      "rule_info": [],
+      "seg_phrase": [
+        "-",
+        "bien",
+        ",",
+        "merci",
+        "..."
+      ],
+      "seg_phrase_original": [
+        "-",
+        "Bien",
+        ",",
+        "merci",
+        "..."
+      ],
+      "phrase_original": "- Bien, merci..."
+    },
+    "replace": false,
+    "replace_phrase": ""
+  },
+  {
+    "phrase": "  Oh !",
+    "table": [
+      {
+        "word": " ",
+        "lemma": " ",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "Oh",
+        "lemma": "Oh",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "!",
+        "lemma": "!",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      }
+    ],
+    "seg_phrase_info": {
+      "rule_info": [],
+      "seg_phrase": [
+        " ",
+        "Oh",
+        "!"
+      ],
+      "seg_phrase_original": [
+        " ",
+        "Oh",
+        "!"
+      ],
+      "phrase_original": " Oh !"
+    },
+    "replace": false,
+    "replace_phrase": ""
+  },
+  {
+    "phrase": "mon café !",
+    "table": [
+      {
+        "word": "Mon",
+        "lemma": "mon",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "café",
+        "lemma": "café",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "!",
+        "lemma": "!",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      }
+    ],
+    "seg_phrase_info": {
+      "rule_info": [],
+      "seg_phrase": [
+        "mon",
+        "café",
+        "!"
+      ],
+      "seg_phrase_original": [
+        "Mon",
+        "café",
+        "!"
+      ],
+      "phrase_original": "Mon café !"
+    },
+    "replace": false,
+    "replace_phrase": ""
+  },
+  {
+    "phrase": "  je être désoler !",
+    "table": [
+      {
+        "word": " ",
+        "lemma": " ",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "Je",
+        "lemma": "je",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "suis",
+        "lemma": "être",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "désolé",
+        "lemma": "désoler",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "!",
+        "lemma": "!",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      }
+    ],
+    "seg_phrase_info": {
+      "rule_info": [],
+      "seg_phrase": [
+        " ",
+        "je",
+        "être",
+        "désoler",
+        "!"
+      ],
+      "seg_phrase_original": [
+        " ",
+        "Je",
+        "suis",
+        "désolé",
+        "!"
+      ],
+      "phrase_original": " Je suis désolé !"
+    },
+    "replace": false,
+    "replace_phrase": ""
+  },
+  {
+    "phrase": "  votre nom ... Martinez . prénom ... Diane ...",
+    "table": [
+      {
+        "word": " ",
+        "lemma": " ",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "Votre",
+        "lemma": "votre",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "nom",
+        "lemma": "nom",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "...",
+        "lemma": "...",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "Martinez",
+        "lemma": "Martinez",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": ".",
+        "lemma": ".",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "Prénom",
+        "lemma": "prénom",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "...",
+        "lemma": "...",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "Diane",
+        "lemma": "Diane",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "...",
+        "lemma": "...",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      }
+    ],
+    "seg_phrase_info": {
+      "rule_info": [],
+      "seg_phrase": [
+        " ",
+        "votre",
+        "nom",
+        "...",
+        "Martinez",
+        ".",
+        "prénom",
+        "...",
+        "Diane",
+        "..."
+      ],
+      "seg_phrase_original": [
+        " ",
+        "Votre",
+        "nom",
+        "...",
+        "Martinez",
+        ".",
+        "Prénom",
+        "...",
+        "Diane",
+        "..."
+      ],
+      "phrase_original": " Votre nom... Martinez.Prénom...Diane..."
+    },
+    "replace": false,
+    "replace_phrase": ""
+  },
+  {
+    "phrase": "quell être votre date de naissance ?",
+    "table": [
+      {
+        "word": "Quelle",
+        "lemma": "quell",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "est",
+        "lemma": "être",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "votre",
+        "lemma": "votre",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "date de naissance",
+        "lemma": "date de naissance",
+        "key": "EPL",
+        "temp_info": "",
+        "EPL_info": [
+          {
+            "type": "locution",
+            "niveau": "A1",
+            "category": "N",
+            "explication": "Spécification du jour, du mois et de l’année de la venue au monde de quelqu’un"
+          }
+        ],
+        "replace": "None",
+        "exercise": "Regardez la date de naissance et déterminez l'âge de la personne."
+      },
+      {
+        "word": "?",
+        "lemma": "?",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      }
+    ],
+    "seg_phrase_info": {
+      "rule_info": [
+        {
+          "expr": "date de naissance",
+          "rule": "combine,date+de+naissance,date de naissance,EPL\n"
+        }
+      ],
+      "seg_phrase": [
+        "quell",
+        "être",
+        "votre",
+        "date de naissance",
+        "?"
+      ],
+      "seg_phrase_original": [
+        "Quelle",
+        "est",
+        "votre",
+        "date de naissance",
+        "?"
+      ],
+      "phrase_original": "Quelle est votre date de naissance ?"
+    },
+    "replace": false,
+    "replace_phrase": ""
+  },
+  {
+    "phrase": "  le 3 ou le 9 ? \n",
+    "table": [
+      {
+        "word": " ",
+        "lemma": " ",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "Le",
+        "lemma": "le",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "3",
+        "lemma": "3",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "ou",
+        "lemma": "ou",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "le",
+        "lemma": "le",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "9",
+        "lemma": "9",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "?",
+        "lemma": "?",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "\n",
+        "lemma": "\n",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      }
+    ],
+    "seg_phrase_info": {
+      "rule_info": [],
+      "seg_phrase": [
+        " ",
+        "le",
+        "3",
+        "ou",
+        "le",
+        "9",
+        "?",
+        "\n"
+      ],
+      "seg_phrase_original": [
+        " ",
+        "Le",
+        "3",
+        "ou",
+        "le",
+        "9",
+        "?",
+        "\n"
+      ],
+      "phrase_original": " Le 3 ou le 9 ?\n"
+    },
+    "replace": false,
+    "replace_phrase": ""
+  },
+  {
+    "phrase": "- le 9 !",
+    "table": [
+      {
+        "word": "-",
+        "lemma": "-",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "Le",
+        "lemma": "le",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "9",
+        "lemma": "9",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "!",
+        "lemma": "!",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      }
+    ],
+    "seg_phrase_info": {
+      "rule_info": [],
+      "seg_phrase": [
+        "-",
+        "le",
+        "9",
+        "!"
+      ],
+      "seg_phrase_original": [
+        "-",
+        "Le",
+        "9",
+        "!"
+      ],
+      "phrase_original": "- Le 9 !"
+    },
+    "replace": false,
+    "replace_phrase": ""
+  },
+  {
+    "phrase": "  ce être le 9 février 1995 . \n",
+    "table": [
+      {
+        "word": " ",
+        "lemma": " ",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "C'",
+        "lemma": "ce",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "est",
+        "lemma": "être",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "le",
+        "lemma": "le",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "9",
+        "lemma": "9",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "février",
+        "lemma": "février",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "1995",
+        "lemma": "1995",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": ".",
+        "lemma": ".",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "\n",
+        "lemma": "\n",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      }
+    ],
+    "seg_phrase_info": {
+      "rule_info": [],
+      "seg_phrase": [
+        " ",
+        "ce",
+        "être",
+        "le",
+        "9",
+        "février",
+        "1995",
+        ".",
+        "\n"
+      ],
+      "seg_phrase_original": [
+        " ",
+        "C'",
+        "est",
+        "le",
+        "9",
+        "février",
+        "1995",
+        ".",
+        "\n"
+      ],
+      "phrase_original": " C'est le 9 février 1995.\n"
+    },
+    "replace": false,
+    "replace_phrase": ""
+  },
+  {
+    "phrase": "- bien , nationalité ... français . \n",
+    "table": [
+      {
+        "word": "-",
+        "lemma": "-",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "Bien",
+        "lemma": "bien",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": ",",
+        "lemma": ",",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "nationalité",
+        "lemma": "nationalité",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "...",
+        "lemma": "...",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "française",
+        "lemma": "français",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": ".",
+        "lemma": ".",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "\n",
+        "lemma": "\n",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      }
+    ],
+    "seg_phrase_info": {
+      "rule_info": [],
+      "seg_phrase": [
+        "-",
+        "bien",
+        ",",
+        "nationalité",
+        "...",
+        "français",
+        ".",
+        "\n"
+      ],
+      "seg_phrase_original": [
+        "-",
+        "Bien",
+        ",",
+        "nationalité",
+        "...",
+        "française",
+        ".",
+        "\n"
+      ],
+      "phrase_original": "- Bien, nationalité... française.\n"
+    },
+    "replace": false,
+    "replace_phrase": ""
+  },
+  {
+    "phrase": "- oui ... \n",
+    "table": [
+      {
+        "word": "-",
+        "lemma": "-",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "Oui",
+        "lemma": "oui",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "...",
+        "lemma": "...",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "\n",
+        "lemma": "\n",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      }
+    ],
+    "seg_phrase_info": {
+      "rule_info": [],
+      "seg_phrase": [
+        "-",
+        "oui",
+        "...",
+        "\n"
+      ],
+      "seg_phrase_original": [
+        "-",
+        "Oui",
+        "...",
+        "\n"
+      ],
+      "phrase_original": "- Oui...\n"
+    },
+    "replace": false,
+    "replace_phrase": ""
+  },
+  {
+    "phrase": "- quelle être votre coordonnée ...",
+    "table": [
+      {
+        "word": "-",
+        "lemma": "-",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "Quelles",
+        "lemma": "quelle",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "sont",
+        "lemma": "être",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "vos",
+        "lemma": "votre",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "coordonnées",
+        "lemma": "coordonnée",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "...",
+        "lemma": "...",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      }
+    ],
+    "seg_phrase_info": {
+      "rule_info": [],
+      "seg_phrase": [
+        "-",
+        "quelle",
+        "être",
+        "votre",
+        "coordonnée",
+        "..."
+      ],
+      "seg_phrase_original": [
+        "-",
+        "Quelles",
+        "sont",
+        "vos",
+        "coordonnées",
+        "..."
+      ],
+      "phrase_original": "- Quelles sont vos coordonnées..."
+    },
+    "replace": false,
+    "replace_phrase": ""
+  },
+  {
+    "phrase": "  quell être votre adresse ?",
+    "table": [
+      {
+        "word": " ",
+        "lemma": " ",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "Quelle",
+        "lemma": "quell",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "est",
+        "lemma": "être",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "votre",
+        "lemma": "votre",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "adresse",
+        "lemma": "adresse",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "?",
+        "lemma": "?",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      }
+    ],
+    "seg_phrase_info": {
+      "rule_info": [],
+      "seg_phrase": [
+        " ",
+        "quell",
+        "être",
+        "votre",
+        "adresse",
+        "?"
+      ],
+      "seg_phrase_original": [
+        " ",
+        "Quelle",
+        "est",
+        "votre",
+        "adresse",
+        "?"
+      ],
+      "phrase_original": " Quelle est votre adresse ?"
+    },
+    "replace": false,
+    "replace_phrase": ""
+  },
+  {
+    "phrase": "  ce être le numéro 30 ? \n",
+    "table": [
+      {
+        "word": " ",
+        "lemma": " ",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "C'",
+        "lemma": "ce",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "est",
+        "lemma": "être",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "le",
+        "lemma": "le",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "numéro",
+        "lemma": "numéro",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "30",
+        "lemma": "30",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "?",
+        "lemma": "?",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "\n",
+        "lemma": "\n",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      }
+    ],
+    "seg_phrase_info": {
+      "rule_info": [],
+      "seg_phrase": [
+        " ",
+        "ce",
+        "être",
+        "le",
+        "numéro",
+        "30",
+        "?",
+        "\n"
+      ],
+      "seg_phrase_original": [
+        " ",
+        "C'",
+        "est",
+        "le",
+        "numéro",
+        "30",
+        "?",
+        "\n"
+      ],
+      "phrase_original": " C'est le numéro 30 ?\n"
+    },
+    "replace": false,
+    "replace_phrase": ""
+  },
+  {
+    "phrase": "- je habiter 30 rue de Jura . \n",
+    "table": [
+      {
+        "word": "-",
+        "lemma": "-",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "J'",
+        "lemma": "je",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "habite",
+        "lemma": "habiter",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "30",
+        "lemma": "30",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "rue",
+        "lemma": "rue",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "du",
+        "lemma": "de",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "Jura",
+        "lemma": "Jura",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": ".",
+        "lemma": ".",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "\n",
+        "lemma": "\n",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      }
+    ],
+    "seg_phrase_info": {
+      "rule_info": [],
+      "seg_phrase": [
+        "-",
+        "je",
+        "habiter",
+        "30",
+        "rue",
+        "de",
+        "Jura",
+        ".",
+        "\n"
+      ],
+      "seg_phrase_original": [
+        "-",
+        "J'",
+        "habite",
+        "30",
+        "rue",
+        "du",
+        "Jura",
+        ".",
+        "\n"
+      ],
+      "phrase_original": "- J'habite 30 rue du Jura.\n"
+    },
+    "replace": false,
+    "replace_phrase": ""
+  },
+  {
+    "phrase": "- et quel être votre numéro de téléphone ? \n",
+    "table": [
+      {
+        "word": "-",
+        "lemma": "-",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "Et",
+        "lemma": "et",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "quel",
+        "lemma": "quel",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "est",
+        "lemma": "être",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "votre",
+        "lemma": "votre",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "numéro de téléphone",
+        "lemma": "numéro de téléphone",
+        "key": "EPL",
+        "temp_info": "",
+        "EPL_info": [
+          {
+            "type": "locution",
+            "niveau": "A1",
+            "category": "N",
+            "explication": "Suite de chiffres (et plus rarement de lettres) qui identifie de façon unique un abonné téléphonique, et permet de l'appeler."
+          }
+        ],
+        "replace": "None",
+        "exercise": "Le numéro de téléphone n'est d'ailleurs pas publié dans l'annuaire téléphonique local."
+      },
+      {
+        "word": "?",
+        "lemma": "?",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "\n",
+        "lemma": "\n",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      }
+    ],
+    "seg_phrase_info": {
+      "rule_info": [
+        {
+          "expr": "numéro de téléphone",
+          "rule": "combine,numéro+de+téléphone,numéro de téléphone,EPL\n"
+        }
+      ],
+      "seg_phrase": [
+        "-",
+        "et",
+        "quel",
+        "être",
+        "votre",
+        "numéro de téléphone",
+        "?",
+        "\n"
+      ],
+      "seg_phrase_original": [
+        "-",
+        "Et",
+        "quel",
+        "est",
+        "votre",
+        "numéro de téléphone",
+        "?",
+        "\n"
+      ],
+      "phrase_original": "- Et quel est votre numéro de téléphone ?\n"
+    },
+    "replace": false,
+    "replace_phrase": ""
+  },
+  {
+    "phrase": "- ce être le 03 24 35 29 18 . \n",
+    "table": [
+      {
+        "word": "-",
+        "lemma": "-",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "C'",
+        "lemma": "ce",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "est",
+        "lemma": "être",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "le",
+        "lemma": "le",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "03",
+        "lemma": "03",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "24",
+        "lemma": "24",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "35",
+        "lemma": "35",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "29",
+        "lemma": "29",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "18",
+        "lemma": "18",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": ".",
+        "lemma": ".",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "\n",
+        "lemma": "\n",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      }
+    ],
+    "seg_phrase_info": {
+      "rule_info": [],
+      "seg_phrase": [
+        "-",
+        "ce",
+        "être",
+        "le",
+        "03",
+        "24",
+        "35",
+        "29",
+        "18",
+        ".",
+        "\n"
+      ],
+      "seg_phrase_original": [
+        "-",
+        "C'",
+        "est",
+        "le",
+        "03",
+        "24",
+        "35",
+        "29",
+        "18",
+        ".",
+        "\n"
+      ],
+      "phrase_original": "- C'est le 03 24 35 29 18.\n"
+    },
+    "replace": false,
+    "replace_phrase": ""
+  },
+  {
+    "phrase": "- Merci .",
+    "table": [
+      {
+        "word": "-",
+        "lemma": "-",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": "Merci",
+        "lemma": "Merci",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      },
+      {
+        "word": ".",
+        "lemma": ".",
+        "key": "",
+        "temp_info": "",
+        "EPL_info": "",
+        "replace": "None",
+        "exercise": " "
+      }
+    ],
+    "seg_phrase_info": {
+      "rule_info": [],
+      "seg_phrase": [
+        "-",
+        "Merci",
+        "."
+      ],
+      "seg_phrase_original": [
+        "-",
+        "Merci",
+        "."
+      ],
+      "phrase_original": "- Merci."
+    },
+    "replace": false,
+    "replace_phrase": ""
+  }
+]
