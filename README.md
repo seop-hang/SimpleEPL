@@ -56,13 +56,13 @@ Cloner le project
 Se rendre dans le répertoire du projet
 
 ```bash
-  cd projetExpression
+  cd SimpleEPL
 ```
 
 installer les dépendances
 
 ```bash
-  pip install requirements.txt
+  pip install -r requirements.txt
 ```
 
 exécuter le serveur
