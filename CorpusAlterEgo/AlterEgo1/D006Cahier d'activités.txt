@@ -1,0 +1,28 @@
+Dossier 0: Cahier d'activités
+Activité 3
+Exemple : Amsterdam : embarquement porte 15.
+1. Chicago : embarquement porte 21.
+2. Sydney : embarquement porte 68.
+3. Lyon : embarquement porte 43.
+4. Kyoto : embarquement porte 12.
+5. Londres : embarquement porte 57.
+6. Dubaï : embarquement porte 31.
+Activité 12
+1. 一 Vous vous appelez comment ?
+一 Je m'appelle Yin.
+一 Pardon ? Comment ça s'écrit ?
+一 Y-I-N. - Y-I-N。
+一 Votre nationalité ?
+一 Je suis chinois.
+2. 一 Comment vous appelez-vous ?
+一 Je m'appelle Enrique.
+一 Enrique avec un H ?
+一 Non, E-N-R-I-Q-U-E.
+一 Votre nationalité, s'il vous plaît ?
+一 Je suis espagnol.
+3. 一 Vous vous appelez comment ?
+一 Je m'appelle Meiko.
+一 Épelez, s'il vous plaît.
+一 M-E-I-K-O. - M-E-I-K-O。
+一 Vous êtes japonaise ?
+一 Oui, je suis japonaise.

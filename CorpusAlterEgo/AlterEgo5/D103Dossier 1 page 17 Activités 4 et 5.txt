@@ -1,0 +1,8 @@
+Dossier 1 page 17 Activités 4 et 5
+La voix sur IP, c'est la possibilité de téléphoner grâce à des technologies numériques, de transmettre la voix sur le réseau. Avant, le téléphone passait par un support physique, à savoir des câbles de cuivre.
+Aujourd'hui, nous avons la possibilité technique de nous affranchir de ce support physique et d'avoir un service de téléphonie en utilisant ce que nous propose déjà Internet.
+La voix sur IP, c'est tout simplement la téléphonie qui utilise ce protocole d'Internet, qui convertit vos appels téléphoniques en données numériques et les achemine en temps réel sur votre connexion façon Web, généralement par l'ADSL. . .
+La même technologie que nous utilisons pour nos box Internet, et ceci, pour simplifier, de la même manière que l'on envoie un mail. Ces appels arrivent à destination comme un appel téléphonique traditionnel.
+Vos correspondants auront ainsi l'impression de téléphoner sur un réseau ordinaire. Un petit peu d'histoire : le pionnier dans ce domaine, c'est Skype qui permet de téléphoner gratuitement entre deux ordinateurs ou faire des visioconférences.
+Skype est également doté d'une messagerie instantanée basique permettant aux utilisateurs de communiquer de façon textuelle et de se transmettre des fichiers par exemple.
+Avec ce logiciel gratuit, on peut également effectuer des appels payants vers des lignes téléphoniques fixes et mobiles et recevoir des appels depuis des appareils eux aussi fixes et mobiles, mais, dans ce cas, uniquement possible dans certains pays.

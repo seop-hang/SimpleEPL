@@ -1,0 +1,13 @@
+Exercice 2 page 37 Document 2
+Journaliste : Vous qui cherchez un emploi en utilisant Internet, vous savez ô combien la recherche est difficile. Bien sûr, il est extrêmement facile de postuler, mais tout comme on jetterait une bouteille à la mer, vous n'avez aucun indice quant au résultat. Dominique Bourely, bonjour.
+Dominique Bourely : Bonjour Marie-Odile.
+Journaliste : Vous êtes directeur du développement de la société Quatuor Solutions et vous vous avez voulu optimiser les mises en relation entre recruteurs et candidats.
+Dominique Bourely : Tout à fait, alors nous avons développé un système inédit qui s'appelle Météo Job.
+Journaliste : Alors ça marche comment ?
+Dominique Bourely : Le candidat donne des indications sur son profil, son expérience, sa formation. L'offre est également décrite par le recruteur d'une manière équivalente et le système calcule, mesure le degré d'affinité entre le profil et l'offre.
+Journaliste : Et les réponses viennent sous quelle forme ?
+Dominique Bourely : Lorsque le système donne une indication très positive, on affiche un soleil au candidat, lorsque moins de critères sont en correspondance le système affiche un soleil avec des nuages et lorsqu'il n'y a pas assez d'affinités, le candidat obtient un nuage tout court.
+Journaliste : C'est donc un système qui facilite les rencontres entre demandeurs d'emploi et recruteurs ?
+Dominique Bourely : Exactement et en plus on propose des passerelles entre métiers. Je vous donne un exemple. On va proposer des offres de boulanger à des soudeurs, et pourquoi ? Parce que ces deux métiers partagent des caractéristiques communes. Ce sont deux métiers manuels réalisés dans des environnements de très haute chaleur.
+Journaliste : Donc ce système on peut déjà l'utiliser sur le net. Est-ce que vous comptez le développer et l'optimiser encore ?
+Dominique Bourely : Alors oui, c'est pour cela que nous avons développé un programme d'innovation avec des laboratoires d'île- de-France et une autre PME qui a pour objectif de pouvoir étendre ces passerelles et de déployer sur d'autres marchés européens cette même technologie.
